@@ -2,7 +2,12 @@
 <!-- Create a public repo named exactly “aeronique” and initialize with a README.md -->
 
 <!-- 2. Banner & Intro -->
-<img src="https://yourdomain.com/dark-banner.png" alt="Banner" width="100%" />
+<img 
+  src="https://github.com/aeronique/aeronique/raw/main/assets/banner.png" 
+  alt="Aeronique Dark Cyberpunk Banner" 
+  width="100%" 
+/>
+
 
 # Hello, I’m Aeronique  
 *Cybersecurity | Blue Team | DFIR | Threat Intel*

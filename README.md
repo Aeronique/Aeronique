@@ -4,8 +4,8 @@
 <!-- 2. Banner & Intro -->
 <img src="https://yourdomain.com/dark-banner.png" alt="Banner" width="100%" />
 
-# Hello, I’m aeronique  
-*Cybersecurity enthusiast | Blue Team | DFIR | Threat Intel*
+# Hello, I’m Aeronique  
+*Cybersecurity | Blue Team | DFIR | Threat Intel*
 
 ---
 

@@ -1,6 +1,16 @@
-<img src="https://yourdomain.com/dark-banner.png" alt="Banner" width="100%" />
+
 
 ## Hi there 👋
+
+# Hello, I’m Michelle  
+*Cybersecurity enthusiast | Blue Team | Hack-the-planet vibes*  
+
+## About Me  
+## Technical Skills  
+## Projects  
+## GitHub Stats  
+## Connect with Me  
+
 
 <!--
 **Aeronique/Aeronique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

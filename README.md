@@ -17,7 +17,6 @@
 ---
 
 ## About Me
-## About Me
 
 I’m a geospatial intelligence (GEOINT) professional specializing in Open-Source Intelligence (OSINT) and an aspiring Cybersecurity Incident Responder / SOC Analyst eager to apply my analytical rigor and investigative mindset to digital defense.
 

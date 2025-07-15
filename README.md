@@ -8,7 +8,12 @@
   width="100%" 
 />
 
-<marquee behavior="scroll" direction="left" scrollamount="5" scrolldelay="80">Hello... I'm Elle</marquee>
+<img
+  src="https://raw.githubusercontent.com/aeronique/aeronique/main/assets/hello_typing.gif"
+  alt="Typing Hello... I'm Elle"
+  width="100%"
+/>
+
 
 *Cybersecurity | Blue Team | DFIR | Threat Intel*
 

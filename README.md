@@ -18,14 +18,12 @@
 
 ## About Me
 
-I’m a geospatial intelligence (GEOINT) professional specializing in Open-Source Intelligence (OSINT) and an aspiring Cybersecurity Incident Responder / SOC Analyst eager to apply my analytical rigor and investigative mindset to digital defense.
+I’m a Geospatial Intelligence Analyst and aspiring cybersecurity professional with a strong passion for cyber defense and threat investigation. As a new member of the SANS Cyber Academy cohort, I am developing a solid foundation in cybersecurity principles, network protocols, and system security. My qualifications include the ISC2 Certified in Cybersecurity (CC), Google Cybersecurity and IT Support Certificates, DoD Cyber Sentinel top 5%, and TryHackMe top 2%.
 
-- 🎓 **Background:** GEOINT analyst with hands-on experience in data collection, analysis, and reporting; SANS Cyber Academy scholar; ISC2 CC; Google Cybersecurity Certificate 
-- 🛠 **Technical Skills:** Python · Bash · PowerShell · Volatility3 · Wireshark · Wazuh · MITRE Caldera  
-- 🏡 **Home Lab:** Proxmox VMs, custom firewall/NAS, automated monitoring pipelines  
-- 🎯 **Focus Areas:** Threat Intelligence · Memory Forensics · Incident Response  
+In addition to my technical certifications, I’ve designed and deployed a homelab to further my skills, including creating vulnerable servers and setting up an advanced security monitoring framework. My experience also includes leading cross-functional teams and analyzing satellite and aerial imagery to provide actionable intelligence that supports military operations and enhances national security.
 
-I thrive on translating complex data into clear, actionable insights and collaborating across teams to strengthen security postures. 
+I’m focused on building my expertise in Blue Team operations, Digital Forensics and Incident Response (DFIR), and Threat Intelligence. With a commitment to continuous learning, I aim to contribute meaningfully to cybersecurity by safeguarding critical digital infrastructure.
+
 
 ---
 

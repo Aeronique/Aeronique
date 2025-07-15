@@ -8,7 +8,8 @@
   width="100%" 
 />
 
-# Hello, I’m Elle 
+<marquee behavior="scroll" direction="left" scrollamount="5" scrolldelay="80">Hello... I'm Elle</marquee>
+
 *Cybersecurity | Blue Team | DFIR | Threat Intel*
 
 ---

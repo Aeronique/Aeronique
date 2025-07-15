@@ -8,7 +8,6 @@
   width="100%" 
 />
 
-
 # Hello, I’m Elle 
 *Cybersecurity | Blue Team | DFIR | Threat Intel*
 

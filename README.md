@@ -27,12 +27,6 @@ I’m a geospatial intelligence (GEOINT) professional specializing in Open-Sourc
 
 I thrive on translating complex data into clear, actionable insights and collaborating across teams to strengthen security postures. 
 
-
-## Projects
-- [Forensic Toolkit](https://github.com/aeronique/forensic-toolkit) — memory analysis scripts in Volatility3  
-- [CTF Write-Ups](https://github.com/aeronique/ctf-writeups) — step-by-step challenges with dark-themed docs  
-- [Threat Intel Pipeline](https://github.com/aeronique/threat-intel) — automated OSINT collector  
-
 ---
 
 ## 🔥 GitHub Stats

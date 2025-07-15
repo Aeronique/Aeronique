@@ -17,15 +17,17 @@
 ---
 
 ## About Me
+## About Me
 
-Hi there—I’m **Aeronique**, a SOC Analyst and incident responder who turns complex data into clear, actionable insights. With a background in hands-on DFIR and Blue Team operations, I thrive on building robust defenses and uncovering hidden threats.
+I’m a geospatial intelligence (GEOINT) professional specializing in Open-Source Intelligence (OSINT) and an aspiring Cybersecurity Incident Responder / SOC Analyst eager to apply my analytical rigor and investigative mindset to digital defense.
 
-- 🎓 **Background:** Self-taught cybersecurity professional, SANS Cyber Academy, ISC2 CC, Google Cybersecurity Certificate 
+- 🎓 **Background:** GEOINT analyst with hands-on experience in data collection, analysis, and reporting; SANS Cyber Academy scholar; ISC2 CC; Google Cybersecurity Certificate 
 - 🛠 **Technical Skills:** Python · Bash · PowerShell · Volatility3 · Wireshark · Wazuh · MITRE Caldera  
-- 🏡 **Homelab:** Proxmox VMs, custom firewall/NAS, automated monitoring pipelines  
+- 🏡 **Home Lab:** Proxmox VMs, custom firewall/NAS, automated monitoring pipelines  
 - 🎯 **Focus Areas:** Threat Intelligence · Memory Forensics · Incident Response  
 
-I believe in continuous learning, clear communication, and a collaborative approach to securing systems.
+I thrive on translating complex data into clear, actionable insights and collaborating across teams to strengthen security postures. 
+
 
 ## Projects
 - [Forensic Toolkit](https://github.com/aeronique/forensic-toolkit) — memory analysis scripts in Volatility3  

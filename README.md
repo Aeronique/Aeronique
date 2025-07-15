@@ -14,12 +14,18 @@
   width="100%"
 />
 
-
-*Cybersecurity | Blue Team | DFIR | Threat Intel*
-
 ---
 
 ## About Me
+
+Hi there—I’m **Aeronique**, a SOC Analyst and incident responder who turns complex data into clear, actionable insights. With a background in hands-on DFIR and Blue Team operations, I thrive on building robust defenses and uncovering hidden threats.
+
+- 🎓 **Background:** Self-taught cybersecurity professional, Google Cybersecurity Certificate, SANS Cyber Academy alum  
+- 🛠 **Technical Skills:** Python · Bash · PowerShell · Volatility3 · Wireshark · ELK Stack · Wazuh · MITRE Caldera  
+- 🏡 **Homelab:** Proxmox VMs, custom firewall/NAS, automated monitoring pipelines  
+- 🎯 **Focus Areas:** Threat Intelligence · Memory Forensics · Incident Response · SIEM Tuning  
+
+I believe in continuous learning, clear communication, and a collaborative approach to securing systems. Let’s connect to share insights, tackle challenges, and build stronger security postures—together.  
 
 
 ## Technical Skills

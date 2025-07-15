@@ -3,7 +3,7 @@
 
 <!-- 2. Banner & Intro -->
 <img 
-  src="https://github.com/aeronique/aeronique/raw/main/assets/banner-flicker.gif" 
+  src="https://github.com/aeronique/aeronique/raw/main/assets/banner_flicker.gif" 
   alt="Aeronique Animated Flicker Banner" 
   width="100%" 
 />

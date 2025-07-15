@@ -9,7 +9,7 @@
 />
 
 <img
-  src="https://raw.githubusercontent.com/aeronique/aeronique/main/assets/hello_typing_fixed.gif"
+  src="https://raw.githubusercontent.com/aeronique/aeronique/main/assets/hello_typing_large_fixed.gif"
   alt="Typing Hello... I'm Elle"
   width="100%"
 />

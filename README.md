@@ -16,13 +16,61 @@
 
 ---
 
-## About Me
+## 👋 About Me
 
-I’m a Geospatial Intelligence Analyst and aspiring cybersecurity professional with a strong passion for cyber defense and threat investigation. As a new member of the SANS Cyber Academy cohort, I am developing a solid foundation in cybersecurity principles, network protocols, and system security. My qualifications include the ISC2 Certified in Cybersecurity (CC), Google Cybersecurity and IT Support Certificates, DoD Cyber Sentinel top 5%, and TryHackMe top 2%.
+I'm Michelle Duell (Elle) - a **U.S. Army Reservist and Geospatial Intelligence Analyst** with active DoD clearance, transitioning to cybersecurity with a focus on **blue team operations, threat intelligence, and reverse engineering**.
 
-In addition to my technical certifications, I’ve designed and deployed a homelab to further my skills, including creating vulnerable servers and setting up an advanced security monitoring framework. My experience also includes leading cross-functional teams and analyzing satellite and aerial imagery to provide actionable intelligence that supports military operations and enhances national security.
+### 🎯 Current Status
+**SANS Cyber Academy Scholar** | Actively building hands-on expertise through competitive challenges, homelab projects, and technical research.
 
-I’m focused on building my expertise in Blue Team operations, Digital Forensics and Incident Response (DFIR), and Threat Intelligence. With a commitment to continuous learning, I aim to contribute meaningfully to cybersecurity by safeguarding critical digital infrastructure.
+### 🏆 Competitive Achievements
+- **2nd Place Overall** - 2025 Target Cyber Defense Challenge
+- **5th Place** - 2025 SANS Holiday Hack Challenge  
+- **Top 5%** - 2025 DoD Cyber Sentinel Challenge (116/2,155 participants)
+- **Top 2%** - TryHackMe
+
+### 🎓 Certifications & Training
+- **SANS Cyber Academy Scholar** (GCIH expected March 2026)
+- **GIAC Security Essentials (GSEC)** - December 2025
+- **GIAC Foundational Cybersecurity Technologies (GFACT)** - October 2025
+- **ISC² Certified in Cybersecurity (CC)** - June 2025
+- **Google Professional Certificates** (Cybersecurity, IT Support, AI Essentials)
+
+### 🎤 Speaking Engagements
+**WiCyS 2026 Conference** - Co-presenting "Reverse Engineering with Ghidra for DNS Exfiltration" covering novice to professional methodologies (Washington, DC)
+
+### 🛠️ Technical Focus Areas
+**Blue Team Operations** | **Threat Intelligence** | **SIEM Deployment** | **Vulnerability Assessment** | **Reverse Engineering** | **OSINT**
+
+**Tools & Technologies:**  
+Wazuh, Suricata, Nessus, MITRE Caldera, Ghidra, T-Pot, Proxmox, Active Directory, Kali Linux, Metasploit
+
+### 🔬 Homelab Projects
+- **Security Operations Center (SOC) Lab** - Proxmox infrastructure with Wazuh SIEM, Active Directory, vulnerable systems (Metasploitable, DVWA), and MITRE Caldera for purple team operations
+- **Network Security Lab** - VLAN segmentation with Suricata IDS/IPS for defensive monitoring
+- **Cloud Threat Intelligence** - T-Pot honeypot on GCP capturing live attack traffic for adversary TTP analysis
+
+### 📝 Technical Writing
+I document my cybersecurity journey, CTF solutions, and technical research at [Medium (@aeronique)](https://medium.com/@aeronique) (also mirrored in my github)
+
+### 💼 Professional Background
+**Geospatial Intelligence Analyst | U.S. Army Reserve** (2018-Present)  
+- Joint Intelligence Targeting Staff (J2T) conducting strategic targeting operations
+- Lead team of 9 analysts in cross-functional intelligence production
+- Apply analytical workflows in pattern recognition and structured problem-solving that translate directly to threat hunting and security operations
+
+**Advanced Mapper | National Geospatial-Intelligence Agency GEMINI Program** (2020-Present)
+
+### 🎯 Career Goal
+Seeking entry-level cybersecurity analyst positions in **blue team operations, threat intelligence, SOC environments, or OSINT analysis** where I can leverage my intelligence background, analytical expertise, and self-developed technical skillset.
+
+### 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michelle-duell)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aeronique)
+
+---
+
+*"From intelligence analysis to cyber defense - bringing analytical rigor and operational experience to blue team operations."*
 
 
 ---

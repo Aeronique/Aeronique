@@ -28,7 +28,7 @@ I'm Michelle Duell (Elle) - a **U.S. Army Reservist and Geospatial Intelligence 
 - 📚 SANS SEC504 (GCIH) Preparation
 - 🏆 2025 SANS Holiday Hack Challenge Report
 - 📝 WiCyS 2026 Conference Presentation Prep
-- 
+
 ### 🏆 Competitive Achievements
 - **2nd Place Overall** - 2025 Target Cyber Defense Challenge
 - **5th Place** - 2025 SANS Holiday Hack Challenge  

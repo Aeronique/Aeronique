@@ -20,8 +20,12 @@
 
 I'm Michelle Duell (Elle) - a **U.S. Army Reservist and Geospatial Intelligence Analyst** with active DoD clearance, transitioning to cybersecurity with a focus on **blue team operations, threat intelligence, vulnerability assessments, and reverse engineering**.
 
-### 🎯 Current Status
-**SANS Cyber Academy Scholar** | Actively building hands-on expertise through competitive challenges, homelab projects, and technical research.
+### 🎯 Career Goal
+Seeking entry-level cybersecurity analyst positions in **blue team operations, threat intelligence, SOC environments, or OSINT analysis** where I can leverage my intelligence background, analytical expertise, and self-developed technical skillset.
+
+### 🎯 Status
+**SANS Cyber Academy Scholar** 
+Actively building hands-on expertise through competitive challenges, homelab projects, and technical research.
 
 ### 🎯 Currently Working On
 - 🔍 Vulnerability Assessment Lab Project
@@ -58,9 +62,6 @@ Wazuh, Suricata, Nessus, MITRE Caldera, Ghidra, T-Pot, Proxmox, Active Directory
 
 ### 📝 Technical Writing
 I document my cybersecurity journey, CTF solutions, and technical research at [Medium (@aeronique)](https://medium.com/@aeronique) (also mirrored in my github)
-
-### 🎯 Career Goal
-Seeking entry-level cybersecurity analyst positions in **blue team operations, threat intelligence, SOC environments, or OSINT analysis** where I can leverage my intelligence background, analytical expertise, and self-developed technical skillset.
 
 ### 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michelle-duell)

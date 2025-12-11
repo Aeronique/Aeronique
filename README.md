@@ -66,6 +66,12 @@ Seeking entry-level cybersecurity analyst positions in **blue team operations, t
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michelle-duell)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aeronique)
 
+### 📜 Certifications
+
+<img src="https://img.shields.io/badge/SANS_Cyber_Academy-Scholar-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/GIAC-GSEC-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/GIAC-GFACT-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ISC²-CC-green?style=for-the-badge" />
 ---
 
 *"From intelligence analysis to cyber defense - bringing analytical rigor and operational experience to blue team operations."*

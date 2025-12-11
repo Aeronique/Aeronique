@@ -25,7 +25,7 @@ Seeking entry-level cybersecurity analyst positions in **blue team operations, t
 
 ### 🎯 Status
 **SANS Cyber Academy Scholar** 
-Actively building hands-on expertise through competitive challenges, homelab projects, and technical research.
+- Actively building hands-on expertise through competitive challenges, homelab projects, and technical research.
 
 ### 🎯 Currently Working On
 - 🔍 Vulnerability Assessment Lab Project

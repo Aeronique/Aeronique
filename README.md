@@ -53,14 +53,6 @@ Wazuh, Suricata, Nessus, MITRE Caldera, Ghidra, T-Pot, Proxmox, Active Directory
 ### 📝 Technical Writing
 I document my cybersecurity journey, CTF solutions, and technical research at [Medium (@aeronique)](https://medium.com/@aeronique) (also mirrored in my github)
 
-### 💼 Professional Background
-**Geospatial Intelligence Analyst | U.S. Army Reserve** (2018-Present)  
-- Joint Intelligence Targeting Staff (J2T) conducting strategic targeting operations
-- Lead team of 9 analysts in cross-functional intelligence production
-- Apply analytical workflows in pattern recognition and structured problem-solving that translate directly to threat hunting and security operations
-
-**Advanced Mapper | National Geospatial-Intelligence Agency GEMINI Program** (2020-Present)
-
 ### 🎯 Career Goal
 Seeking entry-level cybersecurity analyst positions in **blue team operations, threat intelligence, SOC environments, or OSINT analysis** where I can leverage my intelligence background, analytical expertise, and self-developed technical skillset.
 

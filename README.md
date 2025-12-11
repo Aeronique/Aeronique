@@ -18,7 +18,7 @@
 
 ## 👋 About Me
 
-I'm Michelle Duell (Elle) - a **U.S. Army Reservist and Geospatial Intelligence Analyst** with active DoD clearance, transitioning to cybersecurity with a focus on **blue team operations, threat intelligence, and reverse engineering**.
+I'm Michelle Duell (Elle) - a **U.S. Army Reservist and Geospatial Intelligence Analyst** with active DoD clearance, transitioning to cybersecurity with a focus on **blue team operations, threat intelligence, vulnerability assessments, and reverse engineering**.
 
 ### 🎯 Current Status
 **SANS Cyber Academy Scholar** | Actively building hands-on expertise through competitive challenges, homelab projects, and technical research.

@@ -23,6 +23,12 @@ I'm Michelle Duell (Elle) - a **U.S. Army Reservist and Geospatial Intelligence 
 ### 🎯 Current Status
 **SANS Cyber Academy Scholar** | Actively building hands-on expertise through competitive challenges, homelab projects, and technical research.
 
+### 🎯 Currently Working On
+- 🔍 Vulnerability Assessment Lab Project
+- 📚 SANS SEC504 (GCIH) Preparation
+- 🏆 2025 SANS Holiday Hack Challenge Report
+- 📝 WiCyS 2026 Conference Presentation Prep
+- 
 ### 🏆 Competitive Achievements
 - **2nd Place Overall** - 2025 Target Cyber Defense Challenge
 - **5th Place** - 2025 SANS Holiday Hack Challenge  

@@ -74,7 +74,7 @@ Seeking entry-level cybersecurity analyst positions in **blue team operations, t
 <img src="https://img.shields.io/badge/ISC²-CC-green?style=for-the-badge" />
 ---
 
-*"From intelligence analysis to cyber defense - bringing analytical rigor and operational experience to blue team operations."*
+*"From satellite imagery to packet captures - same adversaries, new battlefield."*
 
 
 ---

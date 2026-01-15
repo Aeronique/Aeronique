@@ -11,8 +11,7 @@ root@aerobytes:~$ ./initialize_profile.sh
 [✓] System armed and ready
 ```
 
-<!-- Code Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=root%40aerobytes%3A~%24+sudo+apt+install+threat-intel;root%40aerobytes%3A~%24+python3+analyze_threats.py;root%40aerobytes%3A~%24+echo+%22Hunting+for+IOCs...%22;root%40aerobytes%3A~%24+./detect_anomalies.sh" alt="Code Typing" /></a>
+<br/>
 
 <!-- Animated Typing Intro -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&random=false&width=800&lines=Intelligence+Analyst+%E2%9E%A1+Cybersecurity+Professional;SANS+Cyber+Academy+Scholar+%F0%9F%8E%93;Threat+Intelligence+%7C+Security+Research;Vulnerability+Analysis+%7C+Detection+Engineering+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" /></a>
@@ -206,13 +205,14 @@ echo "From targeting adversaries to hunting threats"
 
 ### **Recent Activity & Insights**
 
-<!-- Random Cybersecurity Quote -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The+only+truly+secure+system+is+one+that+is+powered+off&author=Gene+Spafford&border=true" />
+<!-- Cybersecurity Quote with Cyberpunk Border -->
+> **"The only truly secure system is one that is powered off"**  
+> *- Gene Spafford*
 
 <br/>
 
 <!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/api/?username=Aeronique&theme=dracula&no-frame=true&no-bg=true&row=1&column=7&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,MultiLanguage" />
+<img src="https://github-profile-trophy.vercel.app/?username=Aeronique&theme=dracula&no-frame=true&no-bg=false&row=1&column=6&margin-w=15&margin-h=15" width="100%"/>
 
 </div>
 
@@ -324,25 +324,18 @@ Current Mission: Applying intel tradecraft
 
 ### 📬 **Open to opportunities in Threat Intelligence, Incident Response, and SOC Analyst roles**
 
-<!-- Current UTC Time -->
-<p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00F0FF&center=true&vCenter=true&repeat=true&width=500&lines=Current+UTC+Time%3A+Loading...;System+Time%3A+Synchronized" alt="UTC Time" />
-</p>
-
 <!-- Retro 90s Visitor Counter -->
 <p>
 <img src="https://profile-counter.glitch.me/Aeronique/count.svg" alt="Visitor Count" />
 </p>
 
-<!-- 3D Contribution Calendar -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aeronique&custom_title=Contribution%20Activity&bg_color=0d1117&color=00f0ff&line=ff00ff&point=00f0ff&area_color=8b00ff&area=true&hide_border=true" width="100%"/>
-
 <br/>
 
+<!-- Snake Animation in Cyberpunk Colors -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aeronique/Aeronique/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aeronique/Aeronique/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aeronique/Aeronique/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aeronique/Aeronique/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 <br/>

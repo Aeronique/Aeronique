@@ -30,8 +30,8 @@ root@aerobytes:~$ ./initialize_profile.sh
 <a href="mailto:michelle.m.duell@gmail.com"><img src="https://img.shields.io/badge/Email-ff00ff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<!-- Gold Sparkle Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gold.png" width="900"/>
+<!-- Cyberpunk Gradient Divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=100&section=header" width="100%"/>
 
 </div>
 

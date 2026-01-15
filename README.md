@@ -12,7 +12,7 @@ root@aerobytes:~$ ./initialize_profile.sh
 ```
 
 <!-- Animated Typing Intro -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&random=false&width=800&lines=Intelligence+Analyst+%E2%9E%A1+Cybersecurity+Professional;SANS+Cyber+Academy+Scholar+%F0%9F%8E%93;Red%2FBlue+Team+Operations+%7C+Threat+Intelligence;Former+Educator+%7C+Current+Defender+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&random=false&width=800&lines=Intelligence+Analyst+%E2%9E%A1+Cybersecurity+Professional;SANS+Cyber+Academy+Scholar+%F0%9F%8E%93;Threat+Intelligence+%7C+Security+Research;Vulnerability+Analysis+%7C+Detection+Engineering+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -30,8 +30,8 @@ root@aerobytes:~$ ./initialize_profile.sh
 <a href="mailto:michelle.m.duell@gmail.com"><img src="https://img.shields.io/badge/Email-ff00ff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<!-- Gold Gradient Divider -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header" width="100%"/>
+<!-- Sparkle Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900"/>
 
 </div>
 
@@ -43,7 +43,7 @@ root@aerobytes:~$ cat /etc/profile.d/mission.sh
 # Building defensive security skills through intelligence analysis
 # ...offense for fun
 
-export OPERATOR="Michelle 'Aeronique' Duell"
+export OPERATOR="Aeronique"
 export CLEARANCE="[REDACTED]"
 export ROLE="Intelligence Analyst → Cybersecurity Professional"  
 export LOCATION="[REDACTED]"

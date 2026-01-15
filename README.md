@@ -21,7 +21,7 @@ root@aerobytes:~$ ./initialize_profile.sh
 <a href="https://linkedin.com/in/michelle-duell"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 <p>
-<a href="https://aerobytes.io"><img src="https://img.shields.io/badge/Portfolio-00f0ff?style=for-the-badge&logo=firefox&logoColor=0d1117" alt="Portfolio"/></a>
+<a href="https://aerobytes.io"><img src="https://img.shields.io/badge/Portfolio-8b00ff?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
 </p>
 <p>
 <a href="https://medium.com/@aeronique"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
@@ -30,8 +30,8 @@ root@aerobytes:~$ ./initialize_profile.sh
 <a href="mailto:michelle.m.duell@gmail.com"><img src="https://img.shields.io/badge/Email-ff00ff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<!-- Sparkle Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900"/>
+<!-- Gold Sparkle Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gold.png" width="900"/>
 
 </div>
 
@@ -113,7 +113,7 @@ echo "From targeting adversaries to hunting threats"
 
 ### **SIEM & Detection Engineering**
 ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=00f0ff)
-![Suricata](https://img.shields.io/badge/Suricata_IDS-00f0ff?style=for-the-badge&logo=suricata&logoColor=0d1117)
+![Suricata](https://img.shields.io/badge/Suricata_IDS-008B8B?style=for-the-badge&logo=suricata&logoColor=white)
 ![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=00f0ff)
 
 ### **Red/Blue Team Operations**
@@ -124,7 +124,7 @@ echo "From targeting adversaries to hunting threats"
 
 ### **Infrastructure & Virtualization**
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-00f0ff?style=for-the-badge&logo=linux&logoColor=0d1117)
+![Linux](https://img.shields.io/badge/Linux-008B8B?style=for-the-badge&logo=linux&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
@@ -280,12 +280,12 @@ Current Mission: Applying intel tradecraft
 
 <!-- All Cyberpunk Themed -->
 <p>
-<img src="https://img.shields.io/badge/GIAC_Advisory_Board-00f0ff?style=for-the-badge&logoColor=0d1117" alt="GIAC"/>
+<img src="https://img.shields.io/badge/GIAC_Advisory_Board-008B8B?style=for-the-badge&logoColor=white" alt="GIAC"/>
 <img src="https://img.shields.io/badge/Military_Cyber_Professionals-8b00ff?style=for-the-badge&logoColor=white" alt="MilCyber"/>
 <img src="https://img.shields.io/badge/Women_in_Cybersecurity-ff00ff?style=for-the-badge&logoColor=white" alt="WiCyS"/>
 </p>
 <p>
-<img src="https://img.shields.io/badge/VetSec-00f0ff?style=for-the-badge&logoColor=0d1117" alt="VetSec"/>
+<img src="https://img.shields.io/badge/VetSec-008B8B?style=for-the-badge&logoColor=white" alt="VetSec"/>
 <img src="https://img.shields.io/badge/Military_Intelligence_Corps-8b00ff?style=for-the-badge&logoColor=white" alt="MICA"/>
 </p>
 

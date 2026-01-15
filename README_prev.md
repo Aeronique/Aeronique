@@ -16,22 +16,13 @@ root@aerobytes:~$ ./initialize_profile.sh
 
 <br/>
 
-<!-- Social Links - Vertical Stack with Consistent Cyberpunk Colors -->
-<p>
-<a href="https://linkedin.com/in/michelle-duell"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
-<p>
-<a href="https://aerobytes.io"><img src="https://img.shields.io/badge/Portfolio-00f0ff?style=for-the-badge&logo=firefox&logoColor=0d1117" alt="Portfolio"/></a>
-</p>
-<p>
-<a href="https://medium.com/@aeronique"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
-</p>
-<p>
-<a href="mailto:michelle.m.duell@gmail.com"><img src="https://img.shields.io/badge/Email-ff00ff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+<!-- Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/michelle-duell)
+[![Portfolio](https://img.shields.io/badge/Portfolio-aerobytes.io-00f0ff?style=for-the-badge&logo=About.me&logoColor=white)](https://aerobytes.io)
+[![Medium](https://img.shields.io/badge/Medium-Technical_Writing-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aeronique)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michelle.m.duell@gmail.com)
 
-<!-- Pink Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" style="filter: hue-rotate(290deg);">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </div>
 
@@ -113,31 +104,31 @@ echo "From targeting adversaries to hunting threats"
 
 ### **SIEM & Detection Engineering**
 ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=00f0ff)
-![Suricata](https://img.shields.io/badge/Suricata_IDS-00f0ff?style=for-the-badge&logo=suricata&logoColor=0d1117)
+![Suricata](https://img.shields.io/badge/Suricata_IDS-EF3B2D?style=for-the-badge&logo=suricata&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=00f0ff)
 ![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=00f0ff)
 
-### **Red/Blue Team Operations**
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-ff00ff?style=for-the-badge&logo=mitre&logoColor=white)
-![Caldera](https://img.shields.io/badge/Caldera-8b00ff?style=for-the-badge&logoColor=white)
+### **Purple Team Operations**
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-0051A5?style=for-the-badge&logo=mitre&logoColor=white)
+![Caldera](https://img.shields.io/badge/Caldera-FF6B6B?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Ghidra](https://img.shields.io/badge/Ghidra-ff00ff?style=for-the-badge&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-AA0000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=&logoColor=white)
 
 ### **Infrastructure & Virtualization**
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-00f0ff?style=for-the-badge&logo=linux&logoColor=0d1117)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### **Threat Intelligence & Analysis**
 ![KQL](https://img.shields.io/badge/Kusto_Query_Language-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=00f0ff)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OSINT](https://img.shields.io/badge/OSINT-000000?style=for-the-badge&logoColor=00f0ff)
+![OSINT](https://img.shields.io/badge/OSINT-000000?style=for-the-badge&logo=search&logoColor=00f0ff)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ### **Cloud & Security Tools**
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![T-Pot](https://img.shields.io/badge/T--Pot_Honeypot-ff00ff?style=for-the-badge&logoColor=white)
+![T-Pot](https://img.shields.io/badge/T--Pot_Honeypot-FF6B6B?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=&logoColor=white)
 ![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -279,16 +270,11 @@ Current Mission: Applying intel tradecraft
 
 ## 🤝 **// PROFESSIONAL.NETWORK( )**
 
-<!-- All Cyberpunk Themed -->
-<p>
-<img src="https://img.shields.io/badge/GIAC_Advisory_Board-00f0ff?style=for-the-badge&logoColor=0d1117" alt="GIAC"/>
-<img src="https://img.shields.io/badge/Military_Cyber_Professionals-8b00ff?style=for-the-badge&logoColor=white" alt="MilCyber"/>
-<img src="https://img.shields.io/badge/Women_in_Cybersecurity-ff00ff?style=for-the-badge&logoColor=white" alt="WiCyS"/>
-</p>
-<p>
-<img src="https://img.shields.io/badge/VetSec-00f0ff?style=for-the-badge&logoColor=0d1117" alt="VetSec"/>
-<img src="https://img.shields.io/badge/Military_Intelligence_Corps-8b00ff?style=for-the-badge&logoColor=white" alt="MICA"/>
-</p>
+[![GIAC Advisory Board](https://img.shields.io/badge/GIAC-Advisory_Board_Member-FF6B6B?style=for-the-badge&logoColor=white)](https://www.giac.org)
+[![MilCyberProAssn](https://img.shields.io/badge/Military_Cyber-Professionals_Association-005571?style=for-the-badge&logoColor=white)](https://milcyber.org)
+[![WiCyS](https://img.shields.io/badge/Women_in-Cybersecurity-9b59b6?style=for-the-badge&logoColor=white)](https://wicys.org)
+[![VetSec](https://img.shields.io/badge/VetSec-Veteran_Security-2ECC71?style=for-the-badge&logoColor=white)](https://vetsec.org)
+[![MICA](https://img.shields.io/badge/Military_Intelligence-Corps_Association-1e3a5f?style=for-the-badge&logoColor=white)](https://mica.org)
 
 </div>
 
@@ -296,7 +282,7 @@ Current Mission: Applying intel tradecraft
 
 <div align="center">
 
-## 💡 **// PHILOSOPHY( )**
+### 💡 **// PHILOSOPHY( )**
 
 ```
 ╔═══════════════════════════════════════════════════════════════╗
@@ -329,8 +315,7 @@ Built with care. No frameworks, just code.
 root@aerobytes:~$ date
 ``` 
 
-<!-- Cyberpunk Pink Wave Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff00ff&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=100&section=footer"/>
 
 **© 2025 aerobytes**
 

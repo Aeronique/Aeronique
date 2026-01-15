@@ -89,26 +89,24 @@ echo "From targeting adversaries to hunting threats"
 <td width="50%" valign="top">
 
 ### 🥇 **Competitive Wins**
-```yaml
-🥈 2nd Place: WiCyS x Target Cyber Defense Challenge (2025)
-🏅 5th Place: SANS Holiday Hack Challenge (2025)  
-⭐ Top 5%: DoD Cyber Sentinel Challenge (116/2155)
-🎓 SANS Cyber Academy Scholar
-📊 16 Rooms Completed: KC7 Threat Intel CTFs
-```
+
+🥈 **2nd Place:** WiCyS x Target Cyber Defense Challenge (2025)  
+🏅 **5th Place:** SANS Holiday Hack Challenge (2025)  
+⭐ **Top 5%:** DoD Cyber Sentinel Challenge (116/2155)  
+🎓 **SANS Cyber Academy Scholar**  
+📊 **16 Rooms Completed:** KC7 Threat Intel CTFs
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎖️ **Certifications**
-```yaml
-✅ GIAC Security Essentials (GSEC)
+
+✅ GIAC Security Essentials (GSEC)  
 ✅ GIAC Foundational Cybersecurity (GFACT)  
-✅ ISC² Certified in Cybersecurity (CC)
-⏳ GIAC Incident Handler (GCIH) - In Progress
-📚 Google Professional Certificates (3x)
+✅ ISC² Certified in Cybersecurity (CC)  
+⏳ GIAC Incident Handler (GCIH) - In Progress  
+📚 Google Professional Certificates (3x)  
 🔐 Clearance: [REDACTED]
-```
 
 </td>
 </tr>
@@ -160,8 +158,6 @@ echo "From targeting adversaries to hunting threats"
 ### **Offensive & Defensive Security Lab**
 *Self-designed Proxmox infrastructure for attack simulation and detection engineering*
 
-</div>
-
 <table>
 <tr>
 <td width="33%" valign="top">
@@ -184,7 +180,7 @@ echo "From targeting adversaries to hunting threats"
 - Custom attack scenarios
 
 </td>
-<td width="33%" valign="top">
+<td width="34%" valign="top">
 
 **🌐 Live Threat Intel**
 - T-Pot honeypot on GCP
@@ -196,23 +192,6 @@ echo "From targeting adversaries to hunting threats"
 </td>
 </tr>
 </table>
-
----
-
-## 🎯 **// LATEST.INTEL( )**
-
-<div align="center">
-
-### **Recent Activity & Insights**
-
-<!-- Cybersecurity Quote with Cyberpunk Border -->
-> **"The only truly secure system is one that is powered off"**  
-> *- Gene Spafford*
-
-<br/>
-
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Aeronique&theme=dracula&no-frame=true&no-bg=false&row=1&column=6&margin-w=15&margin-h=15" width="100%"/>
 
 </div>
 
@@ -254,42 +233,49 @@ echo "From targeting adversaries to hunting threats"
 
 ## 🎓 **// BACKGROUND.INTEL( )**
 
+<div align="center">
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### **Military Intelligence Experience**
-```yaml
-Role: Geospatial Intelligence Analyst
-Branch: U.S. Army Reserve  
-Clearance: [REDACTED]
-Unit: [REDACTED] Intelligence Staff
-Location: [REDACTED], VA
-Focus: Multi-source intelligence analysis
-       Pattern recognition & anomaly detection
-       Operational targeting support
-       # Nice try, that's all you're getting 😎
-```
+
+**Role:** Geospatial Intelligence Analyst  
+**Branch:** U.S. Army Reserve  
+**Clearance:** [REDACTED]  
+**Unit:** [REDACTED] Intelligence Staff  
+**Location:** [REDACTED], VA  
+**Focus:**
+- Multi-source intelligence analysis
+- Pattern recognition & anomaly detection
+- Operational targeting support
+
+*# Nice try, that's all you're getting 😎*
 
 </td>
 <td width="50%" valign="top">
 
 ### **Unique Perspective**
-```yaml
-Previous Career: High School Band Director
-Skills Transfer: Leadership (500+ students)
-                Curriculum development  
-                Performance under pressure
-                Cross-functional collaboration
-Musical Background: Professional orchestras
-                    Multi-woodwind specialist
-Current Mission: Applying intel tradecraft
-                 to cyber threat analysis
-```
+
+**Previous Career:** High School Band Director  
+**Skills Transfer:**
+- Leadership (500+ students)
+- Curriculum development  
+- Performance under pressure
+- Cross-functional collaboration
+
+**Musical Background:**
+- Professional orchestras
+- Multi-woodwind specialist
+
+**Current Mission:** Applying intel tradecraft to cyber threat analysis
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 

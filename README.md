@@ -30,8 +30,8 @@ root@aerobytes:~$ ./initialize_profile.sh
 <a href="mailto:michelle.m.duell@gmail.com"><img src="https://img.shields.io/badge/Email-ff00ff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<!-- Pink Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" style="filter: hue-rotate(290deg);">
+<!-- Gold Gradient Divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header" width="100%"/>
 
 </div>
 
@@ -46,7 +46,7 @@ root@aerobytes:~$ cat /etc/profile.d/mission.sh
 export OPERATOR="Michelle 'Aeronique' Duell"
 export CLEARANCE="[REDACTED]"
 export ROLE="Intelligence Analyst → Cybersecurity Professional"  
-export LOCATION="Norfolk, VA"
+export LOCATION="[REDACTED]"
 export MISSION="Applying military intel tradecraft to cyber defense"
 
 # Core Competencies
@@ -114,7 +114,6 @@ echo "From targeting adversaries to hunting threats"
 ### **SIEM & Detection Engineering**
 ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=00f0ff)
 ![Suricata](https://img.shields.io/badge/Suricata_IDS-00f0ff?style=for-the-badge&logo=suricata&logoColor=0d1117)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=00f0ff)
 ![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=00f0ff)
 
 ### **Red/Blue Team Operations**
@@ -298,17 +297,11 @@ Current Mission: Applying intel tradecraft
 
 ## 💡 **// PHILOSOPHY( )**
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                                ║
-║  "Intelligence analysis taught me to find patterns in chaos.  ║
-║   Cybersecurity lets me protect systems from those patterns." ║
-║                                                                ║
-║  Building defensive security through intelligence analysis... ║
-║  ...offense for fun 🎯                                        ║
-║                                                                ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+> **"Intelligence analysis taught me to find patterns in chaos.**  
+> **Cybersecurity lets me protect systems from those patterns."**
+> 
+> *Building defensive security through intelligence analysis...*  
+> *...offense for fun* 🎯
 
 ### 📬 **Open to opportunities in Threat Intelligence, Incident Response, and SOC Analyst roles**
 

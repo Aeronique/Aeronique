@@ -82,9 +82,7 @@ echo "From targeting adversaries to hunting threats"
 
 ## 🏆 **// ACHIEVEMENTS.UNLOCKED( )**
 
-</div>
-
-<table align="center">
+<table>
 <tr>
 <td width="50%" valign="top">
 
@@ -111,6 +109,8 @@ echo "From targeting adversaries to hunting threats"
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -151,9 +151,9 @@ echo "From targeting adversaries to hunting threats"
 
 ---
 
-## 🔬 **// HOMELAB.PROJECTS( )**
-
 <div align="center">
+
+## 🔬 **// HOMELAB.PROJECTS( )**
 
 ### **Offensive & Defensive Security Lab**
 *Self-designed Proxmox infrastructure for attack simulation and detection engineering*
@@ -170,7 +170,7 @@ echo "From targeting adversaries to hunting threats"
 - Detection rule engineering
 
 </td>
-<td width="33%" valign="top">
+<td width="34%" valign="top">
 
 **⚔️ Red Team Arsenal**  
 - MITRE Caldera for adversary emulation
@@ -180,7 +180,7 @@ echo "From targeting adversaries to hunting threats"
 - Custom attack scenarios
 
 </td>
-<td width="34%" valign="top">
+<td width="33%" valign="top">
 
 **🌐 Live Threat Intel**
 - T-Pot honeypot on GCP
@@ -210,34 +210,32 @@ echo "From targeting adversaries to hunting threats"
 <!-- This section auto-updates with your latest blog posts -->
 <!-- BLOG-POST-LIST:END -->
 
-```markdown
-📰 Featured Writeups:
-├─ "KC7: Krusty Krab — Threat Intelligence Investigation Report"
-├─ "TryHackMe: Stolen Mount — Network Forensics Walkthrough"  
-├─ "SANS Holiday Hack Challenge 2025 — Analysis & Solutions"
-└─ More at aerobytes.io/writeups/
+### 📰 **Featured Writeups:**
+- "KC7: Krusty Krab — Threat Intelligence Investigation Report"
+- "TryHackMe: Stolen Mount — Network Forensics Walkthrough"  
+- "SANS Holiday Hack Challenge 2025 — Analysis & Solutions"
+- More at [aerobytes.io/writeups](https://aerobytes.io/writeups/)
 
-🔬 Technical Projects:
-├─ "Building an Attack Simulation & Detection Lab with Proxmox and Wazuh"
-├─ "T-Pot Honeypot: Analyzing Real-World Attack Patterns"
-├─ "MITRE Caldera: Adversary Emulation & Detection Engineering"
-└─ "Blockchain Security: Smart Contract Vulnerability Analysis"
+### 🔬 **Technical Projects:**
+- "Building an Attack Simulation & Detection Lab with Proxmox and Wazuh"
+- "T-Pot Honeypot: Analyzing Real-World Attack Patterns"
+- "MITRE Caldera: Adversary Emulation & Detection Engineering"
+- "Blockchain Security: Smart Contract Vulnerability Analysis"
 
-🎤 Speaking Engagements:
-└─ WiCyS 2026 Conference (Washington, DC)
-   "Reverse Engineering with Ghidra for DNS Exfiltration"
-   45-minute technical session | Co-presenter
-```
+### 🎤 **Speaking Engagements:**
+**WiCyS 2026 Conference** (Washington, DC)  
+*"Reverse Engineering with Ghidra for DNS Exfiltration"*  
+45-minute technical session | Co-presenter
 
 ---
 
-## 🎓 **// BACKGROUND.INTEL( )**
-
 <div align="center">
+
+## 🎓 **// BACKGROUND.INTEL( )**
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
 ### **Military Intelligence Experience**
 
@@ -254,7 +252,7 @@ echo "From targeting adversaries to hunting threats"
 *# Nice try, that's all you're getting 😎*
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
 ### **Unique Perspective**
 

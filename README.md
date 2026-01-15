@@ -30,8 +30,8 @@ root@aerobytes:~$ ./initialize_profile.sh
 <a href="mailto:michelle.m.duell@gmail.com"><img src="https://img.shields.io/badge/Email-ff00ff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<!-- Cyberpunk Gradient Divider -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=100&section=header" width="100%"/>
+<!-- Cyberpunk Gradient Divider: Cyan → Purple → Pink -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:8b00ff,100:ff00ff&height=100&section=header" width="100%"/>
 
 </div>
 

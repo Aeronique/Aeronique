@@ -305,11 +305,6 @@ echo "From targeting adversaries to hunting threats"
 
 ### 📬 **Open to opportunities in Threat Intelligence, Incident Response, and SOC Analyst roles**
 
-<!-- Retro 90s Visitor Counter -->
-<p>
-<img src="https://profile-counter.glitch.me/Aeronique/count.svg" alt="Visitor Count" />
-</p>
-
 <br/>
 
 <!-- Snake Animation in Cyberpunk Colors -->

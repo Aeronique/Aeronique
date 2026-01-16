@@ -206,14 +206,11 @@ echo "From targeting adversaries to hunting threats"
 
 </div>
 
-<!-- BLOG-POST-LIST:START -->
-<!-- This section auto-updates with your latest blog posts -->
-<!-- BLOG-POST-LIST:END -->
-
 ### 📰 **Featured Writeups:**
-- "KC7: Krusty Krab — Threat Intelligence Investigation Report"
-- "TryHackMe: Stolen Mount — Network Forensics Walkthrough"  
-- "SANS Holiday Hack Challenge 2025 — Analysis & Solutions"
+- "[Target x WiCyS Cyber Defense Challenge - Lessons from 2nd Place](https://aerobytes.io/writeups/target-tier-3-retrospective/)"
+- "[KC7: Krusty Krab — Threat Intelligence Investigation Report](https://aerobytes.io/writeups/)"
+- "[TryHackMe: Stolen Mount — Network Forensics Walkthrough](https://aerobytes.io/writeups/)"  
+- "[SANS Holiday Hack Challenge 2025 — Analysis & Solutions](https://aerobytes.io/writeups/)"
 - More at [aerobytes.io/writeups](https://aerobytes.io/writeups/)
 
 ### 🔬 **Technical Projects:**

@@ -84,7 +84,7 @@ echo "From targeting adversaries to hunting threats"
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
 ### 🥇 **Competitive Wins**
 
@@ -95,7 +95,7 @@ echo "From targeting adversaries to hunting threats"
 📊 **16 Rooms Completed:** KC7 Threat Intel CTFs
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
 ### 🎖️ **Certifications**
 
@@ -160,7 +160,7 @@ echo "From targeting adversaries to hunting threats"
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="left">
 
 **🛡️ Blue Team Stack**
 - Wazuh SIEM deployment
@@ -170,7 +170,7 @@ echo "From targeting adversaries to hunting threats"
 - Detection rule engineering
 
 </td>
-<td width="34%" valign="top">
+<td width="34%" valign="top" align="left">
 
 **⚔️ Red Team Arsenal**  
 - MITRE Caldera for adversary emulation
@@ -180,7 +180,7 @@ echo "From targeting adversaries to hunting threats"
 - Custom attack scenarios
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="left">
 
 **🌐 Live Threat Intel**
 - T-Pot honeypot on GCP

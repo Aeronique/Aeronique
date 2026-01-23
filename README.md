@@ -88,11 +88,10 @@ echo "From targeting adversaries to hunting threats"
 
 ### 🥇 **Competitive Wins**
 
+🥇 **1st Place:** WiCyS Cyber Quest Tournament (2026)  
 🥈 **2nd Place:** WiCyS x Target Cyber Defense Challenge (2025)  
 🏅 **5th Place:** SANS Holiday Hack Challenge (2025)  
-⭐ **Top 5%:** DoD Cyber Sentinel Challenge (116/2155)  
-🎓 **SANS Cyber Academy Scholar**  
-📊 **16 Rooms Completed:** KC7 Threat Intel CTFs
+🎓 **SANS Cyber Academy Scholar**
 
 </td>
 <td width="50%" valign="top" align="left">

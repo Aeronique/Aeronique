@@ -78,29 +78,39 @@ echo "From targeting adversaries to hunting threats"
 
 ---
 <div align="center">
+
 ## 🏆 **// ACHIEVEMENTS.UNLOCKED( )**
+
 <table>
 <tr>
 <td width="55%" valign="top" align="left">
+
 ### 🥇 **Competitive Wins**
-🥇 **1st Place:** WiCyS Cyber Quest Tournament (2026)   
-🏆 **Most Creative Runner-Up:** SANS Holiday Hack (2025)   
-🥈 **2nd Place:** WiCyS x Target Defense Challenge (2025)  
-🏅 **5th Place:** SANS Holiday Hack Challenge (2025)  
+
+🥇 **1st Place:** WiCyS Cyber Quest (2026)   
+🏆 **Runner-Up Most Creative:** SANS Holiday Hack (2025)   
+🥈 **2nd Place:** WiCyS x Target Defense (2025)  
+🏅 **5th Place:** SANS Holiday Hack (2025)  
 🎓 **SANS Cyber Academy Scholar**
+
 </td>
 <td width="45%" valign="top" align="left">
+
 ### 🎖️ **Certifications**
+
 ✅ GIAC Security Essentials (GSEC)  
 ✅ GIAC Foundational Cybersecurity (GFACT)  
 ✅ ISC² Certified in Cybersecurity (CC)  
 ⏳ GIAC Incident Handler (GCIH) - In Progress  
 📚 Google Professional Certificates (3x)  
 🔐 Clearance: [REDACTED]
+
 </td>
 </tr>
 </table>
+
 </div>
+
 ---
 
 ## ⚡ **// TECHNICAL.ARSENAL( )**

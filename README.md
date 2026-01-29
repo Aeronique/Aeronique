@@ -84,7 +84,7 @@ echo "From targeting adversaries to hunting threats"
 
 <table>
 <tr>
-<td width="53%" valign="top" align="left">
+<td width="55%" valign="top" align="left">
 
 ### 🥇 **Competitive Wins**
 
@@ -95,7 +95,7 @@ echo "From targeting adversaries to hunting threats"
 🎓 **SANS Cyber Academy Scholar**
 
 </td>
-<td width="47%" valign="top" align="left">
+<td width="45%" valign="top" align="left">
 
 ### 🎖️ **Certifications**
 

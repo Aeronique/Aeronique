@@ -252,7 +252,7 @@ echo "From targeting adversaries to hunting threats"
 
 ### **Unique Perspective**
 
-**Previous Career:** High School Band Director  
+**Previous Career:** Band Director  
 **Skills Transfer:**
 - Leadership (500+ students)
 - Curriculum development  

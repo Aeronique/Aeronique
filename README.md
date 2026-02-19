@@ -98,7 +98,7 @@ echo "From targeting adversaries to hunting threats"
 
 ### 🎖️ **Certifications**
 
-✅ GIAC Incident Handler (GCIH)
+✅ GIAC Incident Handler (GCIH)  
 ✅ GIAC Security Essentials (GSEC)  
 ✅ GIAC Foundational Cybersecurity (GFACT)  
 ✅ ISC² Certified in Cybersecurity (CC)  

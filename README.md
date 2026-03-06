@@ -58,10 +58,10 @@ THREAT_INTELLIGENCE=65%
 
 # Visual Skill Indicators
 echo "Intelligence Analysis    ████████████████████ 100%"
-echo "Defensive Security       ███████████████░░░░░  75%"
-echo "Threat Intelligence      █████████████░░░░░░░  65%"
+echo "Defensive Security       ██████████████████░░  90%"
+echo "Threat Intelligence      ███████████████░░░░░  75%"
 echo "Detection Engineering    ████████████░░░░░░░░  60%"
-echo "Vulnerability Analysis   ██████████░░░░░░░░░░  50%"
+echo "Vulnerability Analysis   ████████████░░░░░░░░  60%"
 
 # Current Objectives
 objectives=(

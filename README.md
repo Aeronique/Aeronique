@@ -89,7 +89,7 @@ echo "From targeting adversaries to hunting threats"
 
 🥇 **1st Place:** WiCyS Conference CTF (2026) <br/>
 🥇 **1st Place:** WiCyS Cyber Quest (2026) <br/>
-🏆 **Runner-Up Most Creative:** SANS Holiday Hack (2025) <br/>
+🏆 **Runner-Up Most Creative:** SANS Holiday Hack '25 <br/>
 🥈 **2nd Place:** WiCyS x Target Defense (2025) <br/>
 🏅 **5th Place:** SANS Holiday Hack (2025) <br/>
 🎓 **SANS Cyber Academy Scholar**

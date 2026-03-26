@@ -58,10 +58,10 @@ THREAT_INTELLIGENCE=65%
 
 # Visual Skill Indicators
 echo "Intelligence Analysis    ████████████████████ 100%"
-echo "Defensive Security       ███████████████░░░░░  75%"
-echo "Threat Intelligence      █████████████░░░░░░░  65%"
+echo "Defensive Security       ██████████████████░░  90%"
+echo "Threat Intelligence      ███████████████░░░░░  75%"
 echo "Detection Engineering    ████████████░░░░░░░░  60%"
-echo "Vulnerability Analysis   ██████████░░░░░░░░░░  50%"
+echo "Vulnerability Analysis   ████████████░░░░░░░░  60%"
 
 # Current Objectives
 objectives=(
@@ -99,10 +99,10 @@ echo "From targeting adversaries to hunting threats"
 
 ### 🎖️ **Certifications**
 
+✅ GIAC Incident Handler (GCIH)  
 ✅ GIAC Security Essentials (GSEC)  
 ✅ GIAC Foundational Cybersecurity (GFACT)  
 ✅ ISC² Certified in Cybersecurity (CC)  
-⏳ GIAC Incident Handler (GCIH) - In Progress  
 📚 Google Professional Certificates (3x)  
 🔐 Clearance: [REDACTED]
 
@@ -253,7 +253,7 @@ echo "From targeting adversaries to hunting threats"
 
 ### **Unique Perspective**
 
-**Previous Career:** High School Band Director  
+**Previous Career:** Band Director  
 **Skills Transfer:**
 - Leadership (500+ students)
 - Curriculum development  

@@ -188,9 +188,9 @@ echo "From targeting adversaries to hunting threats"
 
 ---
 
-## 📝 **// TECHNICAL.WRITING( )**
-
 <div align="center">
+
+### 📝 **// TECHNICAL.WRITING( )**
 
 ### **Published on [aerobytes.io](https://aerobytes.io/writeups/)**  
 *Cross-posted to [Medium](https://medium.com/@aeronique)*

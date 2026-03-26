@@ -207,15 +207,13 @@ echo "From targeting adversaries to hunting threats"
 </div>
 
 ### 📰 **Featured Writeups:**
-- "[Target x WiCyS Cyber Defense Challenge - Lessons from 2nd Place](https://aerobytes.io/writeups/target-tier-3-retrospective/)"
-- "[KC7: Krusty Krab — Threat Intelligence Investigation Report](https://aerobytes.io/writeups/)"
-- "[TryHackMe: Stolen Mount — Network Forensics Walkthrough](https://aerobytes.io/writeups/)"  
+- "[T-Pot Honeypot: 28 Days Exposed](https://aerobytes.io/honeypot-threat-research/)"
 - "[SANS Holiday Hack Challenge 2025 — Analysis & Solutions](https://aerobytes.io/writeups/)"
 - More at [aerobytes.io/writeups](https://aerobytes.io/writeups/)
 
 ### 🔬 **Technical Projects:**
 - "Building an Attack Simulation & Detection Lab with Proxmox and Wazuh"
-- "T-Pot Honeypot: Analyzing Real-World Attack Patterns"
+- "T-Pot Honeypot: 28 Days Exposed"
 - "MITRE Caldera: Adversary Emulation & Detection Engineering"
 - "Blockchain Security: Smart Contract Vulnerability Analysis"
 

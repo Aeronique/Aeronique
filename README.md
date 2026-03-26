@@ -18,7 +18,6 @@ root@aerobytes:~$ ./initialize_profile.sh
 
 <br/>
 
-<!-- Social Links - Vertical Stack with Consistent Cyberpunk Colors -->
 <p>
 <a href="https://linkedin.com/in/michelle-duell"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
@@ -32,7 +31,6 @@ root@aerobytes:~$ ./initialize_profile.sh
 <a href="mailto:michelle.m.duell@gmail.com"><img src="https://img.shields.io/badge/Email-ff00ff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<!-- Cyberpunk Gradient Divider: Cyan → Purple → Pink -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:8b00ff,100:ff00ff&height=100&section=header" width="100%"/>
 
 </div>
@@ -77,7 +75,6 @@ echo "From targeting adversaries to hunting threats"
 ```
 
 ---
-<div align="center">
 
 ## 🏆 **// ACHIEVEMENTS.UNLOCKED( )**
 
@@ -99,13 +96,9 @@ echo "From targeting adversaries to hunting threats"
 📚 Google Professional Certificates (3x)  
 🔐 Clearance: [REDACTED]
 
-</div>
-
 ---
 
 ## ⚡ **// TECHNICAL.ARSENAL( )**
-
-<div align="center">
 
 ### **SIEM & Detection Engineering**
 ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=00f0ff)
@@ -136,11 +129,7 @@ echo "From targeting adversaries to hunting threats"
 ![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-</div>
-
 ---
-
-<div align="center">
 
 ## 🔬 **// HOMELAB.PROJECTS( )**
 
@@ -182,18 +171,12 @@ echo "From targeting adversaries to hunting threats"
 </tr>
 </table>
 
-</div>
-
 ---
 
 ## 📝 **// TECHNICAL.WRITING( )**
 
-<div align="center">
-
 ### **Published on [aerobytes.io](https://aerobytes.io/writeups/)**  
 *Cross-posted to [Medium](https://medium.com/@aeronique)*
-
-</div>
 
 ### 📰 **Featured Writeups:**
 - "[T-Pot Honeypot: 28 Days Exposed](https://aerobytes.io/honeypot-threat-research/)"
@@ -212,8 +195,6 @@ echo "From targeting adversaries to hunting threats"
 45-minute technical session | Co-presenter
 
 ---
-
-<div align="center">
 
 ## 🎓 **// BACKGROUND.INTEL( )**
 
@@ -257,15 +238,10 @@ echo "From targeting adversaries to hunting threats"
 </tr>
 </table>
 
-</div>
-
 ---
-
-<div align="center">
 
 ## 🤝 **// PROFESSIONAL.NETWORK( )**
 
-<!-- All Cyberpunk Themed -->
 <p>
 <img src="https://img.shields.io/badge/GIAC_Advisory_Board-008B8B?style=for-the-badge&logoColor=white" alt="GIAC"/>
 <img src="https://img.shields.io/badge/Military_Cyber_Professionals-8b00ff?style=for-the-badge&logoColor=white" alt="MilCyber"/>
@@ -276,11 +252,7 @@ echo "From targeting adversaries to hunting threats"
 <img src="https://img.shields.io/badge/Military_Intelligence_Corps-8b00ff?style=for-the-badge&logoColor=white" alt="MICA"/>
 </p>
 
-</div>
-
 ---
-
-<div align="center">
 
 ## 💡 **// PHILOSOPHY( )**
 
@@ -293,6 +265,8 @@ echo "From targeting adversaries to hunting threats"
 ### 📬 **Open to opportunities in Threat Intelligence, Incident Response, and SOC Analyst roles**
 
 <br/>
+
+<div align="center">
 
 <!-- Snake Animation in Cyberpunk Colors -->
 <picture>
@@ -310,7 +284,6 @@ Built with care. No frameworks, just code.
 root@aerobytes:~$ date
 ``` 
 
-<!-- Cyberpunk Pink Wave Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff00ff&height=100&section=footer"/>
 
 **© 2025 aerobytes**

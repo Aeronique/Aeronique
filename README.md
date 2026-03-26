@@ -101,7 +101,7 @@ echo "From targeting adversaries to hunting threats"
 
 ✅ GIAC Incident Handler (GCIH)  
 ✅ GIAC Security Essentials (GSEC)  
-✅ GIAC Foundational Cybersec (GFACT)  
+✅ GIAC Foundational Cyber (GFACT)  
 ✅ ISC² Certified in Cybersecurity (CC)  
 📚 Google Professional Certificates (3x)  
 🔐 Clearance: [REDACTED]

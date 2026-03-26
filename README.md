@@ -103,7 +103,7 @@ echo "From targeting adversaries to hunting threats"
 ✅ GIAC Security Essentials (GSEC)  
 ✅ GIAC Foundational Cyber (GFACT)  
 ✅ ISC² Certified in Cybersecurity (CC)  
-📚 Google Professional Certificates (3x)  
+📚 Google Professional Certificates x3  
 🔐 Clearance: [REDACTED]
 
 </td>

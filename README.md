@@ -81,9 +81,9 @@ echo "From targeting adversaries to hunting threats"
 
 ## 🏆 **// ACHIEVEMENTS.UNLOCKED( )**
 
-<table>
+<table width="100%">
 <tr>
-<td width="60%" valign="top" align="left">
+<td width="58%" valign="top" align="left">
 
 ### 🥇 **Competitive Wins**
 
@@ -95,7 +95,7 @@ echo "From targeting adversaries to hunting threats"
 🎓 **SANS Cyber Academy Scholar**
 
 </td>
-<td width="40%" valign="top" align="left">
+<td width="42%" valign="top" align="left">
 
 ### 🎖️ **Certifications**
 

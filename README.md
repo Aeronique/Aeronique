@@ -81,8 +81,6 @@ echo "From targeting adversaries to hunting threats"
 
 ## 🏆 **// ACHIEVEMENTS.UNLOCKED( )**
 
-<div align="center">
-
 ### 🥇 Competitive Wins
 
 🥇 **1st Place:** WiCyS Conference CTF (2026)  

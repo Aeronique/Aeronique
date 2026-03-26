@@ -53,13 +53,13 @@ export MISSION="Applying military intel tradecraft to cyber defense"
 
 # Core Competencies
 INTEL_ANALYSIS=100%
-DEFENSIVE_SECURITY=75%
-THREAT_INTELLIGENCE=65%
+DEFENSIVE_SECURITY=90%
+THREAT_INTELLIGENCE=90%
 
 # Visual Skill Indicators
 echo "Intelligence Analysis    ████████████████████ 100%"
 echo "Defensive Security       ██████████████████░░  90%"
-echo "Threat Intelligence      ███████████████░░░░░  75%"
+echo "Threat Intelligence      ██████████████████░░  90%"
 echo "Detection Engineering    ████████████░░░░░░░░  60%"
 echo "Vulnerability Analysis   ████████████░░░░░░░░  60%"
 

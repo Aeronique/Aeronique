@@ -181,7 +181,7 @@ echo "From targeting adversaries to hunting threats"
 ### 📰 **Featured Writeups:**
 - "[T-Pot Honeypot: 28 Days Exposed](https://aerobytes.io/honeypot-threat-research/)"
 - "[SANS Holiday Hack Challenge 2025 — Full Report](https://hhc2025.aerobytes.io/)"
-- "[Homelab AI Implementation Playbook](https://aerobytes.io/](https://aerobytes.io/writeups/homelab-ai-playbook/)"
+- "[Homelab AI Implementation Playbook](https://aerobytes.io/writeups/homelab-ai-playbook/)"
 - More at [aerobytes.io/writeups](https://aerobytes.io/writeups/)
 
 ### 🔬 **Technical Projects:**

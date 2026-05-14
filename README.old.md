@@ -80,23 +80,23 @@ echo "From targeting adversaries to hunting threats"
 
 ### 🥇 Competitive Wins
 
-<p>🥇 <strong>1st Place:</strong> WiCyS x Tenable CTF (2026)</p>
-<p>🥇 <strong>1st Place:</strong> WiCyS Conference CTF (2026)</p>
-<p>🥇 <strong>1st Place:</strong> WiCyS Cyber Quest (2026)</p>
-<p>🏆 <strong>Runner-Up Most Creative:</strong> SANS Holiday Hack (2025)</p>
-<p>🥈 <strong>2nd Place:</strong> WiCyS x Target Defense (2025)</p>
-<p>🏅 <strong>5th Place:</strong> SANS Holiday Hack (2025)</p>
-<p>🎓 <strong>SANS Cyber Academy Scholar</strong></p>
+🥇 **1st Place:** WiCyS x Tenable CTF (2026)
+🥇 **1st Place:** WiCyS Conference CTF (2026)  
+🥇 **1st Place:** WiCyS Cyber Quest (2026)  
+🏆 **Runner-Up Most Creative:** SANS Holiday Hack (2025)  
+🥈 **2nd Place:** WiCyS x Target Defense (2025)  
+🏅 **5th Place:** SANS Holiday Hack (2025)  
+🎓 **SANS Cyber Academy Scholar**
 
 ### 🎖️ Certifications
 
-<p>✅ Trusted AI Safety Expert (TAISE)</p>
-<p>✅ GIAC Incident Handler (GCIH)</p>
-<p>✅ GIAC Security Essentials (GSEC)</p>
-<p>✅ GIAC Foundational Cybersecurity (GFACT)</p>
-<p>✅ ISC² Certified in Cybersecurity (CC)</p>
-<p>📚 Google Professional Certificates (3x)</p>
-<p>🔐 Clearance: [REDACTED]</p>
+✅ Trusted AI Safety Expert (TAISE)
+✅ GIAC Incident Handler (GCIH)  
+✅ GIAC Security Essentials (GSEC)  
+✅ GIAC Foundational Cybersecurity (GFACT)  
+✅ ISC² Certified in Cybersecurity (CC)  
+📚 Google Professional Certificates (3x)  
+🔐 Clearance: [REDACTED]
 
 ---
 
@@ -130,8 +130,6 @@ echo "From targeting adversaries to hunting threats"
 ![T-Pot](https://img.shields.io/badge/T--Pot_Honeypot-ff00ff?style=for-the-badge&logoColor=white)
 ![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Nessus](https://img.shields.io/badge/Nessus-00f0ff?style=for-the-badge&logo=tenable&logoColor=000000)
-![Tenable Cloud](https://img.shields.io/badge/Tenable_Cloud-8b00ff?style=for-the-badge&logo=tenable&logoColor=white)
 
 ---
 

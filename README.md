@@ -14,7 +14,7 @@ root@aerobytes:~$ ./initialize_profile.sh
 <br/>
 
 <!-- Animated Typing Intro -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&random=false&width=800&lines=Intelligence+Analyst+%E2%9E%A1+Cybersecurity+Professional;SANS+Cyber+Academy+Scholar+%F0%9F%8E%93;Threat+Intelligence+%7C+Security+Research;Vulnerability+Analysis+%7C+Detection+Engineering+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&random=false&width=850&lines=AI+Security+Research+%7C+Red+Teaming;Purple+Team+Operations+%7C+Threat+Intelligence;SANS+Cyber+Academy+Scholar+%F0%9F%8E%93;Intel+Tradecraft+Applied+to+AI+Security+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -28,7 +28,7 @@ root@aerobytes:~$ ./initialize_profile.sh
 <a href="https://medium.com/@aeronique"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
 </p>
 <p>
-<a href="mailto:michelle.m.duell@gmail.com"><img src="https://img.shields.io/badge/Email-ff00ff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:contact@aerobytes.io"><img src="https://img.shields.io/badge/Email-ff00ff?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:8b00ff,100:ff00ff&height=100&section=header" width="100%"/>
@@ -40,38 +40,39 @@ root@aerobytes:~$ ./initialize_profile.sh
 ```bash
 root@aerobytes:~$ cat /etc/profile.d/mission.sh
 
-# Building defensive security skills through intelligence analysis
-# ...offense for fun
+# Breaking AI systems to understand how they fail
+# ...intel tradecraft underneath
 
 export OPERATOR="Aeronique"
 export CLEARANCE="[REDACTED]"
-export ROLE="Intelligence Analyst → Cybersecurity Professional"  
+export ROLE="Security Researcher | AI Red Teaming"
 export LOCATION="[REDACTED]"
-export MISSION="Applying military intel tradecraft to cyber defense"
+export MISSION="Applying military intel tradecraft to AI security"
 
 # Core Competencies
 INTEL_ANALYSIS=100%
-DEFENSIVE_SECURITY=90%
 THREAT_INTELLIGENCE=90%
+PURPLE_TEAM=85%
+AI_RED_TEAMING=75%
 
 # Visual Skill Indicators
 echo "Intelligence Analysis    ████████████████████ 100%"
-echo "Defensive Security       ██████████████████░░  90%"
 echo "Threat Intelligence      ██████████████████░░  90%"
-echo "Detection Engineering    ████████████░░░░░░░░  60%"
-echo "Vulnerability Analysis   ████████████░░░░░░░░  60%"
+echo "Purple Team Operations   █████████████████░░░  85%"
+echo "AI Red Teaming           ███████████████░░░░░  75%"
+echo "Detection Engineering    ██████████████░░░░░░  70%"
 
 # Current Objectives
 objectives=(
-    "Transitioning GEOINT/targeting to threat hunting"
-    "Red/Blue team exercises in homelab environment"
+    "AI red teaming & LLM security research"
+    "Purple team exercises in homelab environment"
     "CTF competitions & continuous skill development"
     "Technical writing & conference presentations"
 )
 
 # Status
 echo "SYSTEM ONLINE | $(date -u +%H:%M:%S) UTC"
-echo "From targeting adversaries to hunting threats"
+echo "From targeting adversaries to red teaming AI"
 ```
 
 ---
@@ -80,96 +81,52 @@ echo "From targeting adversaries to hunting threats"
 
 ### 🥇 Competitive Wins
 
-<p>🥇 <strong>1st Place:</strong> WiCyS x Tenable CTF (2026)</p>
-<p>🥇 <strong>1st Place:</strong> WiCyS Conference CTF (2026)</p>
-<p>🥇 <strong>1st Place:</strong> WiCyS Cyber Quest (2026)</p>
-<p>🏆 <strong>Runner-Up Most Creative:</strong> SANS Holiday Hack (2025)</p>
-<p>🥈 <strong>2nd Place:</strong> WiCyS x Target Defense (2025)</p>
-<p>🏅 <strong>5th Place:</strong> SANS Holiday Hack (2025)</p>
+<p>🥇 <strong>1st Overall & 1st Industry Professional:</strong> WiCyS 2026 Conference CTF</p>
+<p>🥇 <strong>1st Place:</strong> Tenable x WiCyS CTF (2026)</p>
+<p>🥈 <strong>2nd Place:</strong> Elastic Security CTF (2026)</p>
+<p>🥈 <strong>2nd Place:</strong> WiCyS x Target Cyber Defense Challenge (2025)</p>
+<p>🏅 <strong>5th Place & Runner-Up Most Creative Report:</strong> SANS Holiday Hack (2025)</p>
 <p>🎓 <strong>SANS Cyber Academy Scholar</strong></p>
 
 ### 🎖️ Certifications
 
-<p>✅ Trusted AI Safety Expert (TAISE)</p>
-<p>✅ GIAC Incident Handler (GCIH)</p>
+<p>✅ GIAC Certified Incident Handler (GCIH)</p>
+<p>✅ CSA Trusted AI Safety Expert (TAISE)</p>
 <p>✅ GIAC Security Essentials (GSEC)</p>
 <p>✅ GIAC Foundational Cybersecurity (GFACT)</p>
-<p>✅ ISC² Certified in Cybersecurity (CC)</p>
-<p>📚 Google Professional Certificates (3x)</p>
+<p>🎯 HTB Certified Penetration Testing Specialist (CPTS) — In Progress</p>
+<p>🏛️ GIAC Advisory Board (90%+ exam score)</p>
 <p>🔐 Clearance: [REDACTED]</p>
 
 ---
 
-## ⚡ **// TECHNICAL.ARSENAL( )**
+## 🤖 **// AI.SECURITY.LAB( )**
 
-### **SIEM & Detection Engineering**
-![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=00f0ff)
-![Suricata](https://img.shields.io/badge/Suricata_IDS-008B8B?style=for-the-badge&logo=suricata&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=00f0ff)
+### **llm-redteam-mcp**
+*An MCP tool that runs offensive tests against a local LLM stack*
 
-### **Red/Blue Team Operations**
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-ff00ff?style=for-the-badge&logo=mitre&logoColor=white)
-![Caldera](https://img.shields.io/badge/Caldera-8b00ff?style=for-the-badge&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Ghidra](https://img.shields.io/badge/Ghidra-ff00ff?style=for-the-badge&logoColor=white)
+[![Repo](https://img.shields.io/badge/Repo-llm--redteam--mcp-00f0ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Aeronique/llm-redteam-mcp)
 
-### **Infrastructure & Virtualization**
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-008B8B?style=for-the-badge&logo=linux&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### **Threat Intelligence & Analysis**
-![KQL](https://img.shields.io/badge/Kusto_Query_Language-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=00f0ff)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OSINT](https://img.shields.io/badge/OSINT-000000?style=for-the-badge&logoColor=00f0ff)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-
-### **Cloud & Security Tools**
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![T-Pot](https://img.shields.io/badge/T--Pot_Honeypot-ff00ff?style=for-the-badge&logoColor=white)
-![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Nessus](https://img.shields.io/badge/Nessus-00f0ff?style=for-the-badge&logo=tenable&logoColor=000000)
-![Tenable Cloud](https://img.shields.io/badge/Tenable_Cloud-8b00ff?style=for-the-badge&logo=tenable&logoColor=white)
-
----
-
-## 🔬 **// HOMELAB.PROJECTS( )**
-
-### **Offensive & Defensive Security Lab**
-*Self-designed Proxmox infrastructure for attack simulation and detection engineering*
+Built a Model Context Protocol server that probes a local model for the failure modes that matter in offensive work: prompt injection, tool-use abuse, and retrieval poisoning. Runs against a controlled Ollama stack so every test is repeatable and nothing leaves the lab.
 
 <table>
 <tr>
-<td width="33%" valign="top" align="left">
+<td width="50%" valign="top" align="left">
 
-**🛡️ Blue Team Stack**
-- Wazuh SIEM deployment
-- Suricata IDS/IPS
-- Network segmentation (VLANs)
-- Log aggregation & correlation
-- Detection rule engineering
-
-</td>
-<td width="34%" valign="top" align="left">
-
-**⚔️ Red Team Arsenal**  
-- MITRE Caldera for adversary emulation
-- Metasploitable vulnerable VMs
-- DVWA web app testing
-- ATT&CK framework automation
-- Custom attack scenarios
+**🎯 Attack Surface Under Test**
+- Prompt handling & injection
+- Tool-use and function-call abuse
+- RAG / retrieval behavior
+- Agent orchestration failures
 
 </td>
-<td width="33%" valign="top" align="left">
+<td width="50%" valign="top" align="left">
 
-**🌐 Live Threat Intel**
-- T-Pot honeypot on GCP
-- Real-world attack capture
-- TTP analysis & documentation
-- OWASP Top 10 correlation
-- Threat landscape research
+**🧪 Local LLM Stack**
+- Ollama with open-weight models
+- Mistral Nemo 12B, Mistral Small 24B
+- Custom Modelfile with tool use enabled
+- Local embedding + retrieval pipeline
 
 </td>
 </tr>
@@ -177,27 +134,101 @@ echo "From targeting adversaries to hunting threats"
 
 ---
 
+## ⚡ **// TECHNICAL.ARSENAL( )**
+
+### **AI & LLM Security**
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=00f0ff)
+![Model Context Protocol](https://img.shields.io/badge/MCP-8b00ff?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_&_Embeddings-ff00ff?style=for-the-badge&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00f0ff?style=for-the-badge&logoColor=black)
+
+### **Purple Team & Detection Engineering**
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-ff00ff?style=for-the-badge&logo=mitre&logoColor=white)
+![Caldera](https://img.shields.io/badge/Caldera-8b00ff?style=for-the-badge&logoColor=white)
+![BloodHound](https://img.shields.io/badge/BloodHound-000000?style=for-the-badge&logoColor=00f0ff)
+![Velociraptor](https://img.shields.io/badge/Velociraptor-008B8B?style=for-the-badge&logoColor=white)
+![Elastic SIEM](https://img.shields.io/badge/Elastic_SIEM-005571?style=for-the-badge&logo=elastic&logoColor=00f0ff)
+
+### **Infrastructure & Virtualization**
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=00f0ff)
+![Linux](https://img.shields.io/badge/Linux-008B8B?style=for-the-badge&logo=linux&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+
+### **Analysis & Development**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch_DSL-005571?style=for-the-badge&logo=elasticsearch&logoColor=00f0ff)
+![Ghidra](https://img.shields.io/badge/Ghidra-ff00ff?style=for-the-badge&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+### **Cloud & Threat Intel**
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![T-Pot](https://img.shields.io/badge/T--Pot_Honeypot-ff00ff?style=for-the-badge&logoColor=white)
+![OSINT](https://img.shields.io/badge/OSINT-000000?style=for-the-badge&logoColor=00f0ff)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🔬 **// HOMELAB.PROJECTS( )**
+
+### **AeroLab v2 — Segmented Offensive & Detection Lab**
+*Two physical Proxmox nodes, five networks, fully isolated with no outbound route*
+
+<table>
+<tr>
+<td width="33%" valign="top" align="left">
+
+**🤖 AI Security**
+- Local LLM stack on Ollama
+- Adversarial prompt & tool-use testing
+- RAG behavior analysis
+- llm-redteam-mcp harness
+
+</td>
+<td width="34%" valign="top" align="left">
+
+**⚔️ Adversary Emulation**
+- MITRE Caldera, ATT&CK-mapped
+- Kerberoasting, AS-REP, DCSync
+- Pass-the-Hash, identity attacks
+- Misconfigured AD (Server 2022)
+
+</td>
+<td width="33%" valign="top" align="left">
+
+**🛡️ Detection & Forensics**
+- Elastic SIEM 9.x
+- Velociraptor live forensics
+- Telemetry analysis & gap closing
+- Custom detection logic
+
+</td>
+</tr>
+</table>
+
+### **Cloud Threat Intelligence — GCP Honeypot**
+*T-Pot Community Edition, 28 days, 96M+ events on a fully exposed attack surface*
+
+Queried raw Elasticsearch daily to track CVE exploitation trends, active campaigns, credential attack patterns, and geographic attribution. Published a 16-part threat intelligence series documenting findings and methodology.
+
+[![Honeypot Research](https://img.shields.io/badge/Read_the_Series-aerobytes.io-8b00ff?style=for-the-badge&logoColor=white)](https://aerobytes.io/honeypot-threat-research/)
+
+---
+
 ## 📝 **// TECHNICAL.WRITING( )**
 
-### **Published on [aerobytes.io](https://aerobytes.io/writeups/)**  
-*Cross-posted to [Medium](https://medium.com/@aeronique)*
+### **30+ published writeups at [aerobytes.io/writeups](https://aerobytes.io/writeups/)**
+*Cross-posted to [Medium](https://medium.com/@aeronique) with canonical URLs*
 
-### 📰 **Featured Writeups:**
-- "[T-Pot Honeypot: 28 Days Exposed](https://aerobytes.io/honeypot-threat-research/)"
+### 📰 **Featured:**
+- "[T-Pot Honeypot: 28 Days Exposed](https://aerobytes.io/honeypot-threat-research/)" — 16-part threat intel series
 - "[SANS Holiday Hack Challenge 2025 — Full Report](https://hhc2025.aerobytes.io/)"
-- "[Homelab AI Implementation Playbook](https://aerobytes.io/writeups/homelab-ai-playbook/)"
-- More at [aerobytes.io/writeups](https://aerobytes.io/writeups/)
+- CTF challenge solutions, blockchain security research, and homelab infrastructure builds
 
-### 🔬 **Technical Projects:**
-- "Building an Attack Simulation & Detection Lab with Proxmox and Wazuh"
-- "T-Pot Honeypot: 28 Days Exposed"
-- "MITRE Caldera: Adversary Emulation & Detection Engineering"
-- "Blockchain Security: Smart Contract Vulnerability Analysis"
-
-### 🎤 **Speaking Engagements:**
-**WiCyS 2026 Conference** (Washington, DC)  
-*"Reverse Engineering with Ghidra for DNS Exfiltration"*  
-45-minute technical session | Co-presenter
+### 🎤 **Speaking:**
+**"Reverse Engineering with Ghidra for DNS Exfiltration"**
+WiCyS 2026 National Conference (Washington, DC) and WiCyS San Diego Cyber Speaker Series (Virtual)
 
 ---
 
@@ -207,37 +238,33 @@ echo "From targeting adversaries to hunting threats"
 <tr>
 <td width="50%" valign="top" align="left">
 
-### **Military Intelligence Experience**
+### **Intelligence Experience**
 
-**Role:** Geospatial Intelligence Analyst  
-**Branch:** U.S. Army Reserve  
-**Clearance:** [REDACTED]  
-**Unit:** [REDACTED] Intelligence Staff  
-**Location:** [REDACTED], VA  
+**Role:** Geospatial Intelligence Analyst
+**Branch:** U.S. Army Reserve
+**Clearance:** [REDACTED]
 **Focus:**
-- Multi-source intelligence analysis
-- Pattern recognition & anomaly detection
-- Operational targeting support
+- Joint targeting (J2T) support
+- Multi-source data correlation
+- Adversary TTP analysis
+- Leading a 9-person targeting team
 
 *# Nice try, that's all you're getting 😎*
 
 </td>
 <td width="50%" valign="top" align="left">
 
-### **Unique Perspective**
+### **How It Transfers to AI Security**
 
-**Previous Career:** Band Director  
-**Skills Transfer:**
-- Leadership (500+ students)
-- Curriculum development  
-- Performance under pressure
-- Cross-functional collaboration
+The intel cycle and adversarial testing are the same instinct: assume the system can be turned against itself, then go find where.
 
-**Musical Background:**
-- Professional orchestras
-- Multi-woodwind specialist
+- Pattern recognition in messy data
+- Thinking like the adversary first
+- Documenting findings for technical
+  and executive audiences
+- Working under pressure, methodically
 
-**Current Mission:** Applying intel tradecraft to cyber threat analysis
+**Current Mission:** Applying intel tradecraft to AI red teaming
 
 </td>
 </tr>
@@ -245,29 +272,15 @@ echo "From targeting adversaries to hunting threats"
 
 ---
 
-## 🤝 **// PROFESSIONAL.NETWORK( )**
-
-<p>
-<img src="https://img.shields.io/badge/GIAC_Advisory_Board-008B8B?style=for-the-badge&logoColor=white" alt="GIAC"/>
-<img src="https://img.shields.io/badge/Military_Cyber_Professionals-8b00ff?style=for-the-badge&logoColor=white" alt="MilCyber"/>
-<img src="https://img.shields.io/badge/Women_in_Cybersecurity-ff00ff?style=for-the-badge&logoColor=white" alt="WiCyS"/>
-</p>
-<p>
-<img src="https://img.shields.io/badge/VetSec-008B8B?style=for-the-badge&logoColor=white" alt="VetSec"/>
-<img src="https://img.shields.io/badge/Military_Intelligence_Corps-8b00ff?style=for-the-badge&logoColor=white" alt="MICA"/>
-</p>
-
----
-
 ## 💡 **// PHILOSOPHY( )**
 
-> **"Intelligence analysis taught me to find patterns in chaos.**  
-> **Cybersecurity lets me protect systems from those patterns."**
-> 
-> *Building defensive security through intelligence analysis...*  
-> *...offense for fun* 🎯
+> **"Intelligence analysis taught me to find patterns in chaos.**
+> **AI security lets me hunt the failures hiding inside the patterns."**
+>
+> *Breaking AI systems to understand how they fail...*
+> *...intel tradecraft underneath* 🎯
 
-### 📬 **Open to opportunities in Threat Intelligence, Incident Response, and SOC Analyst roles**
+### 📬 **Open to opportunities in AI Security Research, AI Red Teaming, and Purple Team roles**
 
 <br/>
 
@@ -287,25 +300,25 @@ root@aerobytes:~$ echo "Built with care. No frameworks, just code."
 Built with care. No frameworks, just code.
 
 root@aerobytes:~$ date
-``` 
+```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff00ff&height=100&section=footer"/>
 
-**© 2025 aerobytes**
+**© 2026 aerobytes**
 
 </div>
 
 <!-- Easter Eggs -->
-<!-- 
+<!--
 🎮 Achievement Unlocked: Found the Hidden Intel
 🔐 Clearance Level: [REDACTED]
-🎯 Unit Assignment: [REDACTED]  
+🎯 Unit Assignment: [REDACTED]
 📍 Duty Station: [REDACTED]
 ⚡ root@aerobytes:~$ whoami
 aeronique
 root@aerobytes:~$ sudo -l
 User aeronique may run the following commands:
+    (ALL) NOPASSWD: /usr/bin/redteam-ai
     (ALL) NOPASSWD: /usr/bin/hunt-threats
-    (ALL) NOPASSWD: /usr/bin/analyze-intel
     (ALL) [REDACTED]
 -->

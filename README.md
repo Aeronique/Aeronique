@@ -50,17 +50,13 @@ export LOCATION="[REDACTED]"
 export MISSION="Applying military intel tradecraft to AI security"
 
 # Core Competencies
-INTEL_ANALYSIS=100%
-THREAT_INTELLIGENCE=90%
-PURPLE_TEAM=85%
-AI_RED_TEAMING=75%
-
-# Visual Skill Indicators
-echo "Intelligence Analysis    ████████████████████ 100%"
-echo "Threat Intelligence      ██████████████████░░  90%"
-echo "Purple Team Operations   █████████████████░░░  85%"
-echo "AI Red Teaming           ███████████████░░░░░  75%"
-echo "Detection Engineering    ██████████████░░░░░░  70%"
+declare -A COMPETENCIES=(
+    [intelligence_analysis]="8 years operational, all-source and GEOINT"
+    [threat_intelligence]="96M-event honeypot study, adversary TTP analysis"
+    [purple_team]="ATT&CK emulation paired with detection engineering"
+    [ai_red_teaming]="LLM offense, MCP tooling, adversarial prompt testing"
+    [detection_engineering]="Elastic SIEM, Sigma rules, telemetry gap closing"
+)
 
 # Current Objectives
 objectives=(

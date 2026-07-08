@@ -282,15 +282,6 @@ The intel cycle and adversarial testing are the same instinct: assume the system
 
 <div align="center">
 
-<!-- Snake Animation in Cyberpunk Colors -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aeronique/Aeronique/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aeronique/Aeronique/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aeronique/Aeronique/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
-<br/>
-
 ```bash
 root@aerobytes:~$ echo "Built with care. No frameworks, just code."
 Built with care. No frameworks, just code.

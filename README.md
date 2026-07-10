@@ -135,8 +135,9 @@ Built a Model Context Protocol server that probes a local model for the failure 
 ### **AI & LLM Security**
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=00f0ff)
 ![Model Context Protocol](https://img.shields.io/badge/MCP-8b00ff?style=for-the-badge&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_&_Embeddings-ff00ff?style=for-the-badge&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00f0ff?style=for-the-badge&logoColor=black)
+![Unsloth](https://img.shields.io/badge/Unsloth_QLoRA-ff00ff?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_&_Embeddings-00f0ff?style=for-the-badge&logoColor=black)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-008B8B?style=for-the-badge&logoColor=white)
 
 ### **Purple Team & Detection Engineering**
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-ff00ff?style=for-the-badge&logo=mitre&logoColor=white)

@@ -14,7 +14,7 @@ root@aerobytes:~$ ./initialize_profile.sh
 <br/>
 
 <!-- Animated Typing Intro -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&random=false&width=850&lines=AI+Security+Research+%7C+Red+Teaming;Purple+Team+Operations+%7C+Threat+Intelligence;SANS+Cyber+Academy+Scholar+%F0%9F%8E%93;Intel+Tradecraft+Applied+to+AI+Security+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&random=false&width=850&lines=AI+Safety+Red+Team+Fellow;Reverse+Engineering+%26+Malware+Analysis;Threat+Intelligence+%7C+Detection+Engineering;Intel+Tradecraft+Applied+to+Security+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -45,25 +45,26 @@ root@aerobytes:~$ cat /etc/profile.d/mission.sh
 
 export OPERATOR="Aeronique"
 export CLEARANCE="[REDACTED]"
-export ROLE="Security Researcher | AI Red Teaming"
+export ROLE="AI Safety Red Team Fellow | Security Researcher"
 export LOCATION="[REDACTED]"
-export MISSION="Applying military intel tradecraft to AI security"
+export MISSION="Intelligence tradecraft applied to offensive security and AI red teaming"
 
 # Core Competencies
 declare -A COMPETENCIES=(
+    [reverse_engineering]="Ghidra static analysis, malware triage, mobile app teardown"
+    [ai_red_teaming]="Adversarial testing of frontier LLMs, MCP tooling"
+    [ai_engineering]="KC7 pipeline, 40+ coordinated LLM agents, 21 days to 3 hours"
+    [threat_intelligence]="96M-event honeypot study, 16-report series"
     [intelligence_analysis]="8 years operational, all-source and GEOINT"
-    [threat_intelligence]="96M-event honeypot study, adversary TTP analysis"
-    [purple_team]="ATT&CK emulation paired with detection engineering"
-    [ai_red_teaming]="LLM offense, MCP tooling, adversarial prompt testing"
-    [detection_engineering]="Elastic SIEM, Sigma rules, telemetry gap closing"
+    [detection_engineering]="Elastic SIEM, ATT&CK-mapped emulation, telemetry gap closing"
 )
 
-# Current Objectives
+# Current Focus
 objectives=(
-    "AI red teaming & LLM security research"
-    "Purple team exercises in homelab environment"
-    "CTF competitions & continuous skill development"
-    "Technical writing & conference presentations"
+    "Adversarial testing of frontier AI systems"
+    "Reverse engineering and malware analysis"
+    "LLM-assisted RE tooling wired through MCP"
+    "AeroLab v2 detection engineering and adversary emulation"
 )
 
 # Status
@@ -78,19 +79,23 @@ echo "From targeting adversaries to red teaming AI"
 ### 🥇 Competitive Wins
 
 <p>🥇 <strong>1st Overall & 1st Industry Professional:</strong> WiCyS 2026 Conference CTF</p>
-<p>🥇 <strong>1st Place:</strong> Tenable x WiCyS CTF (2026)</p>
+<p>🥇 <strong>1st Place:</strong> Tenable x WiCyS Exposure Quest CTF (2026)</p>
+<p>🥇 <strong>1st Place:</strong> WiCyS Cyber Quest Tournament, ~325 competitors (2026)</p>
+<p>🥇 <strong>1st Place & Team Captain:</strong> USCC East Cyber Camp (2026)</p>
 <p>🥈 <strong>2nd Place:</strong> Elastic Security CTF (2026)</p>
+<p>🥈 <strong>2nd Place:</strong> SANS NetWars North America (2026)</p>
+<p>🥈 <strong>2nd Place:</strong> SANS Women's History Month BootUp CTF (2026)</p>
 <p>🥈 <strong>2nd Place:</strong> WiCyS x Target Cyber Defense Challenge (2025)</p>
 <p>🏅 <strong>5th Place & Runner-Up Most Creative Report:</strong> SANS Holiday Hack (2025)</p>
 <p>🎓 <strong>SANS Cyber Academy Scholar</strong></p>
 
 ### 🎖️ Certifications
 
-<p>✅ GIAC Certified Incident Handler (GCIH)</p>
+<p>✅ GIAC Certified Incident Handler (GCIH), 98%</p>
 <p>✅ CSA Trusted AI Safety Expert (TAISE)</p>
-<p>✅ GIAC Security Essentials (GSEC)</p>
-<p>✅ GIAC Foundational Cybersecurity (GFACT)</p>
-<p>🎯 HTB Certified Penetration Testing Specialist (CPTS) — In Progress</p>
+<p>✅ GIAC Security Essentials (GSEC), 95%</p>
+<p>✅ GIAC Foundational Cybersecurity (GFACT), 100%</p>
+<p>🎯 HTB Certified Penetration Testing Specialist (CPTS), In Progress</p>
 <p>🏛️ GIAC Advisory Board (90%+ exam score)</p>
 <p>🔐 Clearance: [REDACTED]</p>
 
@@ -127,6 +132,11 @@ Built a Model Context Protocol server that probes a local model for the failure 
 </td>
 </tr>
 </table>
+
+### **LLM-Assisted Reverse Engineering**
+*Ghidra, radare2, jadx, dnspy, and x64dbg wired into MCP so a local model can drive real RE tooling*
+
+Connected a local LLM to a working reverse engineering stack through the Model Context Protocol, so the model can decompile, disassemble, and take mobile apps apart under my direction inside the lab.
 
 ---
 
@@ -169,7 +179,7 @@ Built a Model Context Protocol server that probes a local model for the failure 
 
 ## 🔬 **// HOMELAB.PROJECTS( )**
 
-### **AeroLab v2 — Segmented Offensive & Detection Lab**
+### **AeroLab v2, Segmented Offensive & Detection Lab**
 *Two physical Proxmox nodes, five networks, fully isolated with no outbound route*
 
 <table>
@@ -204,7 +214,7 @@ Built a Model Context Protocol server that probes a local model for the failure 
 </tr>
 </table>
 
-### **Cloud Threat Intelligence — GCP Honeypot**
+### **Cloud Threat Intelligence, GCP Honeypot**
 *T-Pot Community Edition, 28 days, 96M+ events on a fully exposed attack surface*
 
 Queried raw Elasticsearch daily to track CVE exploitation trends, active campaigns, credential attack patterns, and geographic attribution. Published a 16-part threat intelligence series documenting findings and methodology.
@@ -219,8 +229,8 @@ Queried raw Elasticsearch daily to track CVE exploitation trends, active campaig
 *Cross-posted to [Medium](https://medium.com/@aeronique) with canonical URLs*
 
 ### 📰 **Featured:**
-- "[T-Pot Honeypot: 28 Days Exposed](https://aerobytes.io/honeypot-threat-research/)" — 16-part threat intel series
-- "[SANS Holiday Hack Challenge 2025 — Full Report](https://hhc2025.aerobytes.io/)"
+- "[T-Pot Honeypot: 28 Days Exposed](https://aerobytes.io/honeypot-threat-research/)", 16-part threat intel series
+- "[SANS Holiday Hack Challenge 2025, Full Report](https://hhc2025.aerobytes.io/)"
 - CTF challenge solutions, blockchain security research, and homelab infrastructure builds
 
 ### 🎤 **Speaking:**
@@ -277,7 +287,7 @@ The intel cycle and adversarial testing are the same instinct: assume the system
 > *Breaking AI systems to understand how they fail...*
 > *...intel tradecraft underneath* 🎯
 
-### 📬 **Open to opportunities in AI Security Research, AI Red Teaming, and Purple Team roles**
+### 📬 **Open to roles in threat hunting, threat intelligence, incident response, SOC, detection engineering, and AI red teaming**
 
 <br/>
 

@@ -226,7 +226,6 @@ Queried raw Elasticsearch daily to track CVE exploitation trends, active campaig
 ## 📝 **// TECHNICAL.WRITING( )**
 
 ### **30+ published writeups at [aerobytes.io/writeups](https://aerobytes.io/writeups/)**
-*Cross-posted to [Medium](https://medium.com/@aeronique) with canonical URLs*
 
 ### 📰 **Featured:**
 - "[T-Pot Honeypot: 28 Days Exposed](https://aerobytes.io/honeypot-threat-research/)", 16-part threat intel series

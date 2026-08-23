@@ -14,7 +14,7 @@ root@aerobytes:~$ ./initialize_profile.sh
 <br/>
 
 <!-- Animated Typing Intro -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&random=false&width=850&lines=AI+Safety+Red+Team+Fellow;Reverse+Engineering+%26+Malware+Analysis;Threat+Intelligence+%7C+Detection+Engineering;Intel+Tradecraft+Applied+to+Security+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&random=false&width=850&lines=SOC+Analysis+%26+Threat+Hunting;Threat+Intelligence+%26+Malware+Analysis;Purple+Team+%26+Adversary+Emulation;AI+Red+Teaming+on+Frontier+Systems+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -25,7 +25,7 @@ root@aerobytes:~$ ./initialize_profile.sh
 <a href="https://aerobytes.io"><img src="https://img.shields.io/badge/Portfolio-8b00ff?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
 </p>
 <p>
-<a href="https://medium.com/@aeronique"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+<a href="https://aerobytes.io/aerolab/"><img src="https://img.shields.io/badge/AeroLab-00f0ff?style=for-the-badge&logoColor=black" alt="AeroLab"/></a>
 </p>
 <p>
 <a href="mailto:contact@aerobytes.io"><img src="https://img.shields.io/badge/Email-ff00ff?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/></a>
@@ -40,36 +40,37 @@ root@aerobytes:~$ ./initialize_profile.sh
 ```bash
 root@aerobytes:~$ cat /etc/profile.d/mission.sh
 
-# Breaking AI systems to understand how they fail
+# Hunting the things that hide in the noise
 # ...intel tradecraft underneath
 
 export OPERATOR="Aeronique"
 export CLEARANCE="[REDACTED]"
-export ROLE="AI Safety Red Team Fellow | Security Researcher"
+export ROLE="Security Researcher | AI Safety Red Team Fellow"
 export LOCATION="[REDACTED]"
-export MISSION="Intelligence tradecraft applied to offensive security and AI red teaming"
+export MISSION="Intelligence tradecraft applied to threat hunting, detection, and AI red teaming"
 
 # Core Competencies
 declare -A COMPETENCIES=(
-    [reverse_engineering]="Ghidra static analysis, malware triage, mobile app teardown"
-    [ai_red_teaming]="Adversarial testing of frontier LLMs, MCP tooling"
-    [ai_engineering]="KC7 pipeline, 40+ coordinated LLM agents, 21 days to 3 hours"
+    [soc_analysis]="Alert triage, Elastic SIEM, endpoint and network telemetry"
+    [threat_hunting]="Velociraptor fleet hunts, ATT&CK-mapped hypothesis testing"
     [threat_intelligence]="96M-event honeypot study, 16-report series"
+    [malware_analysis]="Ghidra static analysis, malware triage, mobile app teardown"
+    [purple_team]="Adversary emulation in AeroLab, telemetry gap analysis"
+    [ai_red_teaming]="Adversarial testing of frontier LLMs, MCP tooling"
     [intelligence_analysis]="8 years operational, all-source and GEOINT"
-    [detection_engineering]="Elastic SIEM, ATT&CK-mapped emulation, telemetry gap closing"
 )
 
 # Current Focus
 objectives=(
-    "Adversarial testing of frontier AI systems"
+    "AeroLab, one ATT&CK technique at a time, executed and detected"
+    "Threat hunting across endpoint and log telemetry"
     "Reverse engineering and malware analysis"
-    "LLM-assisted RE tooling wired through MCP"
-    "AeroLab v2 detection engineering and adversary emulation"
+    "Adversarial testing of frontier AI systems"
 )
 
 # Status
 echo "SYSTEM ONLINE | $(date -u +%H:%M:%S) UTC"
-echo "From targeting adversaries to red teaming AI"
+echo "From targeting adversaries to hunting them"
 ```
 
 ---
@@ -95,9 +96,52 @@ echo "From targeting adversaries to red teaming AI"
 <p>✅ CSA Trusted AI Safety Expert (TAISE)</p>
 <p>✅ GIAC Security Essentials (GSEC), 95%</p>
 <p>✅ GIAC Foundational Cybersecurity (GFACT), 100%</p>
-<p>🎯 HTB Certified Penetration Testing Specialist (CPTS), In Progress</p>
+<p>🎯 HTB Certified Defensive Security Analyst (CDSA), In Progress</p>
 <p>🏛️ GIAC Advisory Board (90%+ exam score)</p>
 <p>🔐 Clearance: [REDACTED]</p>
+
+---
+
+## 🛡️ **// DETECTION.LAB( )**
+
+### **AeroLab, Attack Simulation and Detection**
+*One MITRE ATT&CK technique per writeup, executed against a live host and then hunted*
+
+[![AeroLab](https://img.shields.io/badge/Browse_by_ATT%26CK_Tactic-aerobytes.io%2Faerolab-00f0ff?style=for-the-badge&logoColor=black)](https://aerobytes.io/aerolab/)
+
+Every entry runs the same loop. Baseline the target, execute the technique, detect it several different ways, compare what the endpoint tool sees against what the log pipeline recorded, write a rule, and return the host to a verified state. The writeups document where a detection method fails and what it would fire on by mistake, alongside what it catches.
+
+<table>
+<tr>
+<td width="33%" valign="top" align="left">
+
+**⚔️ Execution**
+- Single technique, ATT&CK mapped
+- Benign payloads, real mechanism
+- Verified baseline before and after
+- Windows Server 2022 domain
+
+</td>
+<td width="34%" valign="top" align="left">
+
+**🔍 Detection**
+- Velociraptor live collection
+- Offline registry hive parsing
+- Fleet-wide hunts
+- Sysmon and Winlogbeat into Elastic
+
+</td>
+<td width="33%" valign="top" align="left">
+
+**📋 Evidence**
+- Endpoint state against log record
+- Sigma rules built from collected data
+- False positives documented
+- Timeline reconstructed to the second
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -142,19 +186,21 @@ Connected a local LLM to a working reverse engineering stack through the Model C
 
 ## ⚡ **// TECHNICAL.ARSENAL( )**
 
+### **Purple Team & Threat Hunting**
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-ff00ff?style=for-the-badge&logo=mitre&logoColor=white)
+![Velociraptor](https://img.shields.io/badge/Velociraptor-008B8B?style=for-the-badge&logoColor=white)
+![Elastic SIEM](https://img.shields.io/badge/Elastic_SIEM-005571?style=for-the-badge&logo=elastic&logoColor=00f0ff)
+![Sysmon](https://img.shields.io/badge/Sysmon-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Sigma](https://img.shields.io/badge/Sigma_Rules-00f0ff?style=for-the-badge&logoColor=black)
+![Caldera](https://img.shields.io/badge/Caldera-8b00ff?style=for-the-badge&logoColor=white)
+![BloodHound](https://img.shields.io/badge/BloodHound-000000?style=for-the-badge&logoColor=00f0ff)
+
 ### **AI & LLM Security**
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=00f0ff)
 ![Model Context Protocol](https://img.shields.io/badge/MCP-8b00ff?style=for-the-badge&logoColor=white)
 ![Unsloth](https://img.shields.io/badge/Unsloth_QLoRA-ff00ff?style=for-the-badge&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_&_Embeddings-00f0ff?style=for-the-badge&logoColor=black)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-008B8B?style=for-the-badge&logoColor=white)
-
-### **Purple Team & Detection Engineering**
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-ff00ff?style=for-the-badge&logo=mitre&logoColor=white)
-![Caldera](https://img.shields.io/badge/Caldera-8b00ff?style=for-the-badge&logoColor=white)
-![BloodHound](https://img.shields.io/badge/BloodHound-000000?style=for-the-badge&logoColor=00f0ff)
-![Velociraptor](https://img.shields.io/badge/Velociraptor-008B8B?style=for-the-badge&logoColor=white)
-![Elastic SIEM](https://img.shields.io/badge/Elastic_SIEM-005571?style=for-the-badge&logo=elastic&logoColor=00f0ff)
 
 ### **Infrastructure & Virtualization**
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
@@ -228,6 +274,7 @@ Queried raw Elasticsearch daily to track CVE exploitation trends, active campaig
 ### **30+ published writeups at [aerobytes.io/writeups](https://aerobytes.io/writeups/)**
 
 ### 📰 **Featured:**
+- "[AeroLab, Attack Simulation and Detection](https://aerobytes.io/aerolab/)", ATT&CK techniques executed and hunted
 - "[T-Pot Honeypot: 28 Days Exposed](https://aerobytes.io/honeypot-threat-research/)", 16-part threat intel series
 - "[SANS Holiday Hack Challenge 2025, Full Report](https://hhc2025.aerobytes.io/)"
 - CTF challenge solutions, blockchain security research, and homelab infrastructure builds
@@ -260,9 +307,9 @@ WiCyS 2026 National Conference (Washington, DC) and WiCyS San Diego Cyber Speake
 </td>
 <td width="50%" valign="top" align="left">
 
-### **How It Transfers to AI Security**
+### **How It Transfers to Security**
 
-The intel cycle and adversarial testing are the same instinct: assume the system can be turned against itself, then go find where.
+The intel cycle and threat hunting are the same instinct: start from what the adversary would do, then go looking for traces of it in the data.
 
 - Pattern recognition in messy data
 - Thinking like the adversary first
@@ -270,7 +317,7 @@ The intel cycle and adversarial testing are the same instinct: assume the system
   and executive audiences
 - Working under pressure, methodically
 
-**Current Mission:** Applying intel tradecraft to AI red teaming
+**Current Mission:** Applying intel tradecraft to threat hunting and detection
 
 </td>
 </tr>
@@ -281,12 +328,12 @@ The intel cycle and adversarial testing are the same instinct: assume the system
 ## 💡 **// PHILOSOPHY( )**
 
 > **"Intelligence analysis taught me to find patterns in chaos.**
-> **AI security lets me hunt the failures hiding inside the patterns."**
+> **Threat hunting is the same work, pointed at a different adversary."**
 >
-> *Breaking AI systems to understand how they fail...*
+> *Finding what hides in the noise...*
 > *...intel tradecraft underneath* 🎯
 
-### 📬 **Open to roles in threat hunting, threat intelligence, incident response, SOC, detection engineering, and AI red teaming**
+### 📬 **Open to roles in SOC analysis, threat hunting, threat intelligence, incident response, and AI red teaming**
 
 <br/>
 
